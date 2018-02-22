@@ -1,0 +1,34 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DHFRL1	4	DHFRL1	dihydrofolate reductase-like 1	107	1.17314875125885	0.11205598	Yes	
+row_1	NME2P1	25	NME2P1	non-metastatic cells 2, protein (NM23B) expressed in, pseudogene 1	269	0.8370964527130127	0.1812639	Yes	
+row_2	NT5C	15	NT5C	5', 3'-nucleotidase, cytosolic	503	0.6259693503379822	0.2187174	Yes	
+row_3	DUT	30	DUT	dUTP pyrophosphatase	561	0.5912460684776306	0.27480128	Yes	
+row_4	CMPK1	17	null	null	689	0.5282837152481079	0.31525305	Yes	
+row_5	UPP1	13	UPP1	uridine phosphorylase 1	794	0.47818616032600403	0.35326004	Yes	
+row_6	DCTD	11	DCTD	dCMP deaminase	939	0.41991159319877625	0.3799465	Yes	
+row_7	NME2	41	NME2	non-metastatic cells 2, protein (NM23B) expressed in	1704	0.22813141345977783	0.30736333	No	
+row_8	HDHD1	7	null	null	1925	0.18948741257190704	0.29972076	No	
+row_9	UCK2	8	UCK2	uridine-cytidine kinase 2	2592	0.08466740697622299	0.22421715	No	
+row_10	NME3	5	NME3	non-metastatic cells 3, protein expressed in	2604	0.08284934610128403	0.23169342	No	
+row_11	NT5E	82	NT5E	5'-nucleotidase, ecto (CD73)	2673	0.07170127332210541	0.23073764	No	
+row_12	UMPS	26	UMPS	uridine monophosphate synthetase (orotate phosphoribosyl transferase and orotidine-5'-decarboxylase)	2730	0.06260895729064941	0.2303319	No	
+row_13	NME6	4	NME6	non-metastatic cells 6, protein expressed in (nucleoside-diphosphate kinase)	3116	0.004821475129574537	0.18195939	No	
+row_14	DPYD	24	DPYD	dihydropyrimidine dehydrogenase	3186	-0.002625270513817668	0.17347865	No	
+row_15	ERH	18	ERH	enhancer of rudimentary homolog (Drosophila)	3198	-0.0044849407859146595	0.17256215	No	
+row_16	UPRT	3	null	null	3214	-0.0067681604996323586	0.17138226	No	
+row_17	UCKL1	1	UCKL1	uridine-cytidine kinase 1-like 1	3271	-0.013970003463327885	0.16576733	No	
+row_18	DCK	11	DCK	deoxycytidine kinase	3390	-0.031077560037374496	0.15411158	No	
+row_19	TYMS	6	TYMS	thymidylate synthetase	3393	-0.03174358978867531	0.15725732	No	
+row_20	CTPS	25	CTPS	CTP synthase	3545	-0.0512763075530529	0.14357437	No	
+row_21	NME7	8	NME7	non-metastatic cells 7, protein expressed in (nucleoside-diphosphate kinase)	3849	-0.09282467514276505	0.115039624	No	
+row_22	DHODH	5	DHODH	dihydroorotate dehydrogenase	4409	-0.16394326090812683	0.061613683	No	
+row_23	AK3	35	AK3	adenylate kinase 3	4792	-0.21289725601673126	0.03590687	No	
+row_24	CAD	85	CAD	carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase	4855	-0.22170181572437286	0.051777937	No	
+row_25	TK1	7	TK1	thymidine kinase 1, soluble	5155	-0.25741881132125854	0.041379027	No	
+row_26	CTPS2	8	CTPS2	CTP synthase II	5227	-0.266414076089859	0.060895883	No	
+row_27	UCK1	2	UCK1	uridine-cytidine kinase 1	5751	-0.3555736839771271	0.032564837	No	
+row_28	TK2	4	TK2	thymidine kinase 2, mitochondrial	5904	-0.38173240423202515	0.054146476	No	
+row_29	NT5C3	7	NT5C3	5'-nucleotidase, cytosolic III	6028	-0.4029155671596527	0.08167936	No	
+row_30	APOBEC3C	5	APOBEC3C	apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3C	6033	-0.4034464955329895	0.124380216	No	
+row_31	NME4	7	NME4	non-metastatic cells 4, protein expressed in	6224	-0.44324633479118347	0.14772455	No	
+row_32	ENTPD4	1	ENTPD4	ectonucleoside triphosphate diphosphohydrolase 4	6804	-0.614969789981842	0.14006351	No	

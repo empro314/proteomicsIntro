@@ -1,0 +1,24 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GLUL	8	GLUL	glutamate-ammonia ligase (glutamine synthetase)	224	0.888796329498291	0.10103341	Yes	
+row_1	HDC	3	HDC	histidine decarboxylase	696	0.5262752175331116	0.11794497	Yes	
+row_2	PCK2	31	PCK2	phosphoenolpyruvate carboxykinase 2 (mitochondrial)	839	0.45369771122932434	0.16601135	Yes	
+row_3	ME1	21	ME1	malic enzyme 1, NADP(+)-dependent, cytosolic	949	0.4170326590538025	0.21292308	Yes	
+row_4	PISD	4	PISD	phosphatidylserine decarboxylase	969	0.41261112689971924	0.27060497	Yes	
+row_5	DDT	17	DDT	D-dopachrome tautomerase	1027	0.3939700424671173	0.3207527	Yes	
+row_6	GOT1	31	GOT1	glutamic-oxaloacetic transaminase 1, soluble (aspartate aminotransferase 1)	1802	0.2115066945552826	0.2533949	No	
+row_7	PPCDC	1	PPCDC	phosphopantothenoylcysteine decarboxylase	1948	0.18530279397964478	0.2619925	No	
+row_8	BCKDHB	13	BCKDHB	branched chain keto acid dehydrogenase E1, beta polypeptide (maple syrup urine disease)	2547	0.09073147922754288	0.19936618	No	
+row_9	UMPS	26	UMPS	uridine monophosphate synthetase (orotate phosphoribosyl transferase and orotidine-5'-decarboxylase)	2730	0.06260895729064941	0.18540257	No	
+row_10	BCKDHA	34	BCKDHA	branched chain keto acid dehydrogenase E1, alpha polypeptide	2812	0.04996112361550331	0.1824061	No	
+row_11	UROD	14	UROD	uroporphyrinogen decarboxylase	2862	0.04262903705239296	0.18240014	No	
+row_12	ME2	29	ME2	malic enzyme 2, NAD(+)-dependent, mitochondrial	3616	-0.060712624341249466	0.09574437	No	
+row_13	FAHD1	10	FAHD1	fumarylacetoacetate hydrolase domain containing 1	3688	-0.06906376034021378	0.09679819	No	
+row_14	PAICS	24	PAICS	phosphoribosylaminoimidazole carboxylase, phosphoribosylaminoimidazole succinocarboxamide synthetase	4245	-0.1427953690290451	0.047080863	No	
+row_15	ECHDC1	22	ECHDC1	enoyl Coenzyme A hydratase domain containing 1	4249	-0.14335961639881134	0.06757888	No	
+row_16	ME3	18	ME3	malic enzyme 3, NADP(+)-dependent, mitochondrial	4411	-0.1641378402709961	0.071064934	No	
+row_17	MLYCD	4	MLYCD	malonyl-CoA decarboxylase	4934	-0.2305949330329895	0.038446475	No	
+row_18	SGPL1	15	SGPL1	sphingosine-1-phosphate lyase 1	5408	-0.29484131932258606	0.021399008	No	
+row_19	GGCX	6	GGCX	gamma-glutamyl carboxylase	5480	-0.30861544609069824	0.057340447	No	
+row_20	UXS1	7	UXS1	UDP-glucuronate decarboxylase 1	6329	-0.4712499678134918	0.018425979	No	
+row_21	MVD	15	MVD	mevalonate (diphospho) decarboxylase	6727	-0.5850432515144348	0.053281255	No	
+row_22	PDXDC1	17	null	null	6901	-0.6608415842056274	0.12758395	No	

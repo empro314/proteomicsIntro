@@ -1,0 +1,14 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AKR1B10	3	AKR1B10	aldo-keto reductase family 1, member B10 (aldose reductase)	2	4.344516754150391	0.3075963	Yes	
+row_1	AKR1C3	19	AKR1C3	aldo-keto reductase family 1, member C3 (3-alpha hydroxysteroid dehydrogenase, type II)	4	4.059981346130371	0.5951572	Yes	
+row_2	AKR1B1	23	AKR1B1	aldo-keto reductase family 1, member B1 (aldose reductase)	57	1.5817981958389282	0.70065594	Yes	
+row_3	CYB5A	7	CYB5A	cytochrome b5 type A (microsomal)	1990	0.17716144025325775	0.46849766	No	
+row_4	SPR	17	SPR	sepiapterin reductase (7,8-dihydrobiopterin:NADP+ oxidoreductase)	4417	-0.16431409120559692	0.17285775	No	
+row_5	RDH14	10	RDH14	retinol dehydrogenase 14 (all-trans/9-cis/11-cis)	4676	-0.19603542983531952	0.15406978	No	
+row_6	AKR1A1	31	AKR1A1	aldo-keto reductase family 1, member A1 (aldehyde reductase)	5071	-0.24738280475139618	0.12169416	No	
+row_7	RDH11	11	RDH11	retinol dehydrogenase 11 (all-trans/9-cis/11-cis)	5270	-0.27280178666114807	0.115945555	No	
+row_8	DHRS4	4	DHRS4	dehydrogenase/reductase (SDR family) member 4	5581	-0.3270942270755768	0.09985788	No	
+row_9	AKR7A2	18	AKR7A2	aldo-keto reductase family 7, member A2 (aflatoxin aldehyde reductase)	6591	-0.5448838472366333	0.0106655825	No	
+row_10	RDH10	7	RDH10	retinol dehydrogenase 10 (all-trans)	6604	-0.548225998878479	0.04799257	No	
+row_11	RDH13	4	RDH13	retinol dehydrogenase 13 (all-trans/9-cis)	6712	-0.5810943245887756	0.07561565	No	
+row_12	DHRS3	11	DHRS3	dehydrogenase/reductase (SDR family) member 3	7487	-1.0671738386154175	0.05319815	No	

@@ -1,0 +1,13 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DUT	30	DUT	dUTP pyrophosphatase	561	0.5912460684776306	0.15596795	Yes	
+row_1	CMPK1	17	null	null	689	0.5282837152481079	0.34272522	Yes	
+row_2	UPP1	13	UPP1	uridine phosphorylase 1	794	0.47818616032600403	0.51315975	Yes	
+row_3	UCK2	8	UCK2	uridine-cytidine kinase 2	2592	0.08466740697622299	0.3180853	No	
+row_4	SHMT1	14	SHMT1	serine hydroxymethyltransferase 1 (soluble)	2717	0.065725177526474	0.3276172	No	
+row_5	UMPS	26	UMPS	uridine monophosphate synthetase (orotate phosphoribosyl transferase and orotidine-5'-decarboxylase)	2730	0.06260895729064941	0.35013694	No	
+row_6	UPRT	3	null	null	3214	-0.0067681604996323586	0.29156545	No	
+row_7	UCKL1	1	UCKL1	uridine-cytidine kinase 1-like 1	3271	-0.013970003463327885	0.2898372	No	
+row_8	TYMS	6	TYMS	thymidylate synthetase	3393	-0.03174358978867531	0.28670138	No	
+row_9	DHODH	5	DHODH	dihydroorotate dehydrogenase	4409	-0.16394326090812683	0.2211034	No	
+row_10	CAD	85	CAD	carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase	4855	-0.22170181572437286	0.24987103	No	
+row_11	UCK1	2	UCK1	uridine-cytidine kinase 1	5751	-0.3555736839771271	0.27304962	No	

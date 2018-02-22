@@ -1,0 +1,26 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	UBA52	1	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	27	2.222865104675293	0.25116414	Yes	
+row_1	RPS27A	17	RPS27A	ribosomal protein S27a	338	0.7489256262779236	0.29761496	Yes	
+row_2	TAB2	14	null	null	451	0.6608789563179016	0.35909897	Yes	
+row_3	MAP3K7	16	MAP3K7	mitogen-activated protein kinase kinase kinase 7	738	0.5011807680130005	0.3802196	Yes	
+row_4	IKBKG	25	IKBKG	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma	776	0.48548510670661926	0.43112957	Yes	
+row_5	UBE2N	24	UBE2N	ubiquitin-conjugating enzyme E2N (UBC13 homolog, yeast)	978	0.40969958901405334	0.4525554	Yes	
+row_6	CASP8	10	CASP8	caspase 8, apoptosis-related cysteine peptidase	1040	0.3914237320423126	0.48964775	Yes	
+row_7	NFKBIA	2	NFKBIA	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha	1128	0.3647410571575165	0.52038586	Yes	
+row_8	UBE2V1	26	UBE2V1	ubiquitin-conjugating enzyme E2 variant 1	1171	0.3527463674545288	0.5554587	Yes	
+row_9	RELA	19	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	1267	0.32634803652763367	0.58078474	Yes	
+row_10	TAB3	3	null	null	1383	0.30042606592178345	0.60060483	Yes	
+row_11	UBB	88	UBB	ubiquitin B	1426	0.2900320589542389	0.62849486	Yes	
+row_12	DDX58	9	DDX58	DEAD (Asp-Glu-Ala-Asp) box polypeptide 58	1775	0.2167261391878128	0.6091713	No	
+row_13	TAB1	19	null	null	1927	0.1892492026090622	0.61169124	No	
+row_14	FAM105B	12	FAM105B	family with sequence similarity 105, member B	2117	0.1558362990617752	0.6055638	No	
+row_15	RIPK2	10	RIPK2	receptor-interacting serine-threonine kinase 2	2216	0.14084187150001526	0.60926294	No	
+row_16	TRAF6	9	TRAF6	TNF receptor-associated factor 6	3023	0.019398951902985573	0.5092394	No	
+row_17	IRAK1	4	IRAK1	interleukin-1 receptor-associated kinase 1	3313	-0.0187069084495306	0.47472078	No	
+row_18	CYLD	7	CYLD	cylindromatosis (turban tumor syndrome)	3387	-0.03061559423804283	0.46896678	No	
+row_19	MAVS	24	null	null	3513	-0.0474463626742363	0.45854402	No	
+row_20	IKBKB	28	IKBKB	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	3610	-0.06015733629465103	0.45325586	No	
+row_21	CHUK	9	CHUK	conserved helix-loop-helix ubiquitous kinase	3702	-0.07102616876363754	0.4498468	No	
+row_22	IRF3	5	IRF3	interferon regulatory factor 3	3932	-0.1036318838596344	0.4326661	No	
+row_23	LSM14A	25	LSM14A	LSM14 homolog A (SCD6, S. cerevisiae)	4140	-0.12716510891914368	0.42097154	No	
+row_24	ITCH	12	ITCH	itchy homolog E3 ubiquitin protein ligase (mouse)	6420	-0.49562859535217285	0.18863375	No	

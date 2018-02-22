@@ -1,0 +1,12 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	WDFY3	8	WDFY3	WD repeat and FYVE domain containing 3	1261	0.32804012298583984	-0.09873711	No	
+row_1	GLT25D2	7	GLT25D2	glycosyltransferase 25 domain containing 2	4809	-0.21502922475337982	-0.50794655	No	
+row_2	PLOD3	42	PLOD3	procollagen-lysine, 2-oxoglutarate 5-dioxygenase 3	5450	-0.30199703574180603	-0.53288454	Yes	
+row_3	B4GALT4	2	B4GALT4	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 4	5818	-0.36790764331817627	-0.5110074	Yes	
+row_4	GLT25D1	16	GLT25D1	glycosyltransferase 25 domain containing 1	6444	-0.5021477937698364	-0.4968617	Yes	
+row_5	B4GALT7	6	B4GALT7	xylosylprotein beta 1,4-galactosyltransferase, polypeptide 7 (galactosyltransferase I)	6603	-0.5477237105369568	-0.41511238	Yes	
+row_6	C1GALT1	12	C1GALT1	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1	6613	-0.5504536032676697	-0.31398797	Yes	
+row_7	B3GALT6	2	B3GALT6	UDP-Gal:betaGal beta 1,3-galactosyltransferase polypeptide 6	6653	-0.5617968440055847	-0.21455511	Yes	
+row_8	C1GALT1C1	8	C1GALT1C1	C1GALT1-specific chaperone 1	6815	-0.6208544969558716	-0.11959935	Yes	
+row_9	B4GALT1	4	B4GALT1	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1	6919	-0.6703905463218689	-0.008096146	Yes	
+row_10	B4GALT5	2	B4GALT5	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 5	7016	-0.7163282632827759	0.11282785	Yes	

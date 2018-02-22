@@ -1,0 +1,16 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PDLIM2	12	PDLIM2	PDZ and LIM domain 2 (mystique)	178	0.9667207598686218	0.10846569	Yes	
+row_1	MYPN	7	MYPN	myopalladin	327	0.763062059879303	0.19313084	Yes	
+row_2	PALLD	61	PALLD	palladin, cytoskeletal associated protein	741	0.4995404779911041	0.2085075	Yes	
+row_3	RARA	1	RARA	retinoic acid receptor, alpha	954	0.41668054461479187	0.23811996	Yes	
+row_4	NFKB1	20	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	984	0.40775132179260254	0.28970736	Yes	
+row_5	MICALL2	4	null	null	1248	0.3320121765136719	0.3013835	Yes	
+row_6	RELA	19	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	1267	0.32634803652763367	0.34333214	Yes	
+row_7	PDLIM5	66	PDLIM5	PDZ and LIM domain 5	2618	0.08014538139104843	0.18315643	No	
+row_8	DAG1	26	DAG1	dystroglycan 1 (dystrophin-associated glycoprotein 1)	4720	-0.2024252712726593	-0.05559457	No	
+row_9	PKD2	19	PKD2	polycystic kidney disease 2 (autosomal dominant)	5128	-0.25452741980552673	-0.07266377	No	
+row_10	SYNPO2	4	SYNPO2	synaptopodin 2	6357	-0.47880756855010986	-0.16335303	No	
+row_11	TTN	2	TTN	titin	6390	-0.487526535987854	-0.101333976	No	
+row_12	HNRNPK	106	null	null	6716	-0.581757664680481	-0.0636655	No	
+row_13	ITGB1	131	ITGB1	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	6934	-0.6761226058006287	4.7503228E-4	No	
+row_14	MAGI1	18	MAGI1	membrane associated guanylate kinase, WW and PDZ domain containing 1	7288	-0.9051450490951538	0.07842396	No	

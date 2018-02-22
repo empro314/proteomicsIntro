@@ -1,0 +1,11 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HMMR	14	HMMR	hyaluronan-mediated motility receptor (RHAMM)	1117	0.36868545413017273	-0.07154529	No	
+row_1	CHP	17	CHP	-	1156	0.35483884811401367	-0.009098272	No	
+row_2	CD44	41	CD44	CD44 molecule (Indian blood group)	1689	0.23151768743991852	-0.032573797	No	
+row_3	FGF2	4	FGF2	fibroblast growth factor 2 (basic)	2987	0.024602951481938362	-0.1921292	No	
+row_4	GUSB	11	GUSB	glucuronidase, beta	4857	-0.221756711602211	-0.38673824	No	
+row_5	HEXB	55	HEXB	hexosaminidase B (beta polypeptide)	6193	-0.4366472661495209	-0.47300357	Yes	
+row_6	HEXA	33	HEXA	hexosaminidase A (alpha polypeptide)	6343	-0.47547122836112976	-0.40174532	Yes	
+row_7	TGFB1	8	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	6675	-0.5690289735794067	-0.33579737	Yes	
+row_8	SLC9A1	3	SLC9A1	solute carrier family 9 (sodium/hydrogen exchanger), member 1 (antiporter, Na+/H+, amiloride sensitive)	6823	-0.623619794845581	-0.2362049	Yes	
+row_9	KIAA1199	9	KIAA1199	KIAA1199	7881	-1.9695889949798584	0.0032918812	Yes	

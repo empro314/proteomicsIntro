@@ -1,0 +1,45 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CDH13	27	CDH13	cadherin 13, H-cadherin (heart)	152	1.0175529718399048	0.02577743	No	
+row_1	TRIP6	44	TRIP6	thyroid hormone receptor interactor 6	171	0.9774669408798218	0.066817604	No	
+row_2	RCC2	29	RCC2	regulator of chromosome condensation 2	618	0.5615007281303406	0.034993626	No	
+row_3	ZNF703	3	ZNF703	zinc finger protein 703	805	0.471983939409256	0.03226361	No	
+row_4	LAMA5	1	LAMA5	laminin, alpha 5	843	0.45114368200302124	0.047556892	No	
+row_5	CDC42	12	CDC42	cell division cycle 42 (GTP binding protein, 25kDa)	1054	0.38714921474456787	0.038014445	No	
+row_6	THY1	3	THY1	Thy-1 cell surface antigen	1122	0.36658796668052673	0.045744695	No	
+row_7	JUB	16	JUB	jub, ajuba homolog (Xenopus laevis)	1173	0.3526543080806732	0.055019043	No	
+row_8	NUMBL	12	NUMBL	numb homolog (Drosophila)-like	1254	0.33048462867736816	0.059495803	No	
+row_9	NUMB	29	NUMB	numb homolog (Drosophila)	1272	0.3249739110469818	0.07173947	No	
+row_10	TBCD	24	TBCD	tubulin-specific chaperone d	1692	0.23123638331890106	0.02870893	No	
+row_11	PDPK1	12	PDPK1	3-phosphoinositide dependent protein kinase-1	1719	0.22574494779109955	0.03540953	No	
+row_12	ARHGEF7	19	ARHGEF7	Rho guanine nucleotide exchange factor (GEF) 7	1747	0.22197099030017853	0.041815676	No	
+row_13	VCL	286	VCL	vinculin	1843	0.2045333832502365	0.038801853	No	
+row_14	CTTN	74	CTTN	cortactin	1856	0.20175573229789734	0.046219323	No	
+row_15	DSP	97	DSP	desmoplakin	2208	0.1430010050535202	0.007924488	No	
+row_16	CSK	15	CSK	c-src tyrosine kinase	2551	0.09050313383340836	-0.031553015	No	
+row_17	RAB8B	1	RAB8B	RAB8B, member RAS oncogene family	2693	0.06852582097053528	-0.046445213	No	
+row_18	PVRL3	9	PVRL3	poliovirus receptor-related 3	2785	0.05353687331080437	-0.055643756	No	
+row_19	DLC1	1	DLC1	deleted in liver cancer 1	2962	0.02883986197412014	-0.07674581	No	
+row_20	BCL2	1	BCL2	B-cell CLL/lymphoma 2	2994	0.023742415010929108	-0.079635374	No	
+row_21	CDH4	5	CDH4	cadherin 4, type 1, R-cadherin (retinal)	3040	0.016459070146083832	-0.08462805	No	
+row_22	PVRL1	1	PVRL1	poliovirus receptor-related 1 (herpesvirus entry mediator C; nectin)	3718	-0.07434554398059845	-0.16742098	No	
+row_23	PVR	11	PVR	poliovirus receptor	3740	-0.07813470810651779	-0.16662782	No	
+row_24	TAOK2	3	TAOK2	TAO kinase 2	3808	-0.08771272748708725	-0.17125954	No	
+row_25	FERMT2	46	null	null	3847	-0.09274855256080627	-0.17198034	No	
+row_26	JUP	46	JUP	junction plakoglobin	4372	-0.15934385359287262	-0.23154971	No	
+row_27	SRC	3	SRC	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)	4388	-0.16156883537769318	-0.22629513	No	
+row_28	PVRL2	4	PVRL2	poliovirus receptor-related 2 (herpesvirus entry mediator B)	4790	-0.21208778023719788	-0.26788557	No	
+row_29	CDH2	51	CDH2	cadherin 2, type 1, N-cadherin (neuronal)	4997	-0.23876120150089264	-0.2834971	No	
+row_30	ACTN1	136	ACTN1	actinin, alpha 1	5188	-0.261303573846817	-0.29607478	No	
+row_31	CTNNB1	32	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	5210	-0.2646200656890869	-0.28701514	No	
+row_32	DLG5	43	DLG5	discs, large homolog 5 (Drosophila)	5370	-0.28887295722961426	-0.2944287	No	
+row_33	CTNND1	81	CTNND1	catenin (cadherin-associated protein), delta 1	5607	-0.3310094177722931	-0.3097659	No	
+row_34	CTNNA1	73	CTNNA1	catenin (cadherin-associated protein), alpha 1, 102kDa	5798	-0.36323282122612	-0.3178253	No	
+row_35	PIP5K1A	5	PIP5K1A	phosphatidylinositol-4-phosphate 5-kinase, type I, alpha	5898	-0.3807447850704193	-0.31353667	No	
+row_36	PIP5K1C	2	PIP5K1C	phosphatidylinositol-4-phosphate 5-kinase, type I, gamma	5965	-0.39178943634033203	-0.30456215	No	
+row_37	PTPRK	27	PTPRK	protein tyrosine phosphatase, receptor type, K	6017	-0.400620698928833	-0.2932887	No	
+row_38	PKP2	27	PKP2	plakophilin 2	6055	-0.40761610865592957	-0.2799249	No	
+row_39	MLLT4	5	MLLT4	myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 4	6098	-0.41576042771339417	-0.2668359	No	
+row_40	CDH10	3	CDH10	cadherin 10, type 2 (T2-cadherin)	6758	-0.5988671183586121	-0.32408896	No	
+row_41	CDH6	17	CDH6	cadherin 6, type 2, K-cadherin (fetal kidney)	7652	-1.212352991104126	-0.3839033	Yes	
+row_42	ITGA2	60	ITGA2	integrin, alpha 2 (CD49B, alpha 2 subunit of VLA-2 receptor)	7779	-1.4123975038528442	-0.33731702	Yes	
+row_43	CADM1	3	null	null	7906	-7.973903179168701	1.2719062E-4	Yes	

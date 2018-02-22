@@ -1,0 +1,11 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PSAT1	32	PSAT1	phosphoserine aminotransferase 1	274	0.8306477069854736	0.26307333	Yes	
+row_1	ME1	21	ME1	malic enzyme 1, NADP(+)-dependent, cytosolic	949	0.4170326590538025	0.32723063	Yes	
+row_2	QPRT	1	QPRT	quinolinate phosphoribosyltransferase (nicotinate-nucleotide pyrophosphorylase (carboxylating))	1255	0.3302183151245117	0.40698794	Yes	
+row_3	PNPO	21	PNPO	pyridoxamine 5'-phosphate oxidase	1537	0.2647663652896881	0.46632117	Yes	
+row_4	NAMPT	34	null	null	1562	0.2600393295288086	0.5564998	Yes	
+row_5	NMNAT1	5	NMNAT1	nicotinamide nucleotide adenylyltransferase 1	1741	0.22294694185256958	0.61388314	Yes	
+row_6	NADK	1	NADK	NAD kinase	1833	0.20586007833480835	0.6761567	Yes	
+row_7	PDXK	19	PDXK	pyridoxal (pyridoxine, vitamin B6) kinase	3373	-0.028264272958040237	0.49142927	No	
+row_8	PNP	21	null	null	3775	-0.08264660090208054	0.47028357	No	
+row_9	NADSYN1	4	NADSYN1	NAD synthetase 1	4277	-0.14717981219291687	0.45960993	No	

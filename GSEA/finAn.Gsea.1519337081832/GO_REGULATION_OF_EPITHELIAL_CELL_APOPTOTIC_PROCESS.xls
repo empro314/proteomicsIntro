@@ -1,0 +1,23 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AKR1C3	19	AKR1C3	aldo-keto reductase family 1, member C3 (3-alpha hydroxysteroid dehydrogenase, type II)	4	4.059981346130371	0.27403322	Yes	
+row_1	ICAM1	2	ICAM1	intercellular adhesion molecule 1 (CD54), human rhinovirus receptor	6	3.752307653427124	0.52764165	Yes	
+row_2	NFE2L2	1	NFE2L2	nuclear factor (erythroid-derived 2)-like 2	97	1.2192503213882446	0.5986761	Yes	
+row_3	COL18A1	10	COL18A1	collagen, type XVIII, alpha 1	1303	0.3190782368183136	0.46745005	No	
+row_4	WFS1	20	WFS1	Wolfram syndrome 1 (wolframin)	2178	0.14659777283668518	0.36653385	No	
+row_5	MTOR	26	null	null	2387	0.11476138979196548	0.34791827	No	
+row_6	BRAF	1	BRAF	v-raf murine sarcoma viral oncogene homolog B1	2491	0.09917809069156647	0.34156367	No	
+row_7	GAS6	21	GAS6	growth arrest-specific 6	2724	0.0633033737540245	0.3164251	No	
+row_8	SORT1	11	SORT1	sortilin 1	2820	0.047848984599113464	0.30761403	No	
+row_9	CAST	1	CAST	calpastatin	3222	-0.008199644275009632	0.2573189	No	
+row_10	ANO6	16	null	null	3329	-0.021531634032726288	0.24533334	No	
+row_11	KRIT1	1	KRIT1	KRIT1, ankyrin repeat containing	3346	-0.02476109191775322	0.24497882	No	
+row_12	TIA1	13	TIA1	TIA1 cytotoxic granule-associated RNA binding protein	3609	-0.06010756269097328	0.21581991	No	
+row_13	PRKCI	8	PRKCI	protein kinase C, iota	4082	-0.11928367614746094	0.1640331	No	
+row_14	EIF2S1	3	EIF2S1	eukaryotic translation initiation factor 2, subunit 1 alpha, 35kDa	4099	-0.12132067233324051	0.17020804	No	
+row_15	SEMA5A	2	SEMA5A	sema domain, seven thrombospondin repeats (type 1 and type 1-like), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 5A	5762	-0.3572506010532379	-0.016387524	No	
+row_16	MAPK7	5	MAPK7	mitogen-activated protein kinase 7	5980	-0.39489227533340454	-0.017201588	No	
+row_17	TCF7L2	3	TCF7L2	transcription factor 7-like 2 (T-cell specific, HMG-box)	6244	-0.448032408952713	-0.02025538	No	
+row_18	ABL1	9	ABL1	v-abl Abelson murine leukemia viral oncogene homolog 1	6272	-0.45537635684013367	0.0071138865	No	
+row_19	GSN	37	GSN	gelsolin (amyloidosis, Finnish type)	6781	-0.6070955991744995	-0.016251592	No	
+row_20	THBS1	97	THBS1	thrombospondin 1	7049	-0.7308189868927002	-6.902668E-4	No	
+row_21	SERPINE1	50	SERPINE1	serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1	7850	-1.617301106452942	0.0072278343	No	

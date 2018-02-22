@@ -1,0 +1,21 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	THRAP3	18	THRAP3	thyroid hormone receptor associated protein 3	1611	0.2479807734489441	-0.1814795	No	
+row_1	RNPS1	7	RNPS1	RNA binding protein S1, serine-rich domain	1749	0.22123585641384125	-0.17854701	No	
+row_2	EIF4A3	35	null	null	2831	0.04668750613927841	-0.31130657	No	
+row_3	THOC4	28	THOC4	THO complex 4	3670	-0.06638322025537491	-0.41145253	No	
+row_4	R3HCC1	3	R3HCC1	R3H domain and coiled-coil containing 1	3685	-0.06866879761219025	-0.40692633	No	
+row_5	MAGOH	17	MAGOH	mago-nashi homolog, proliferation-associated (Drosophila)	4361	-0.15766677260398865	-0.4780318	No	
+row_6	TDRD3	9	TDRD3	tudor domain containing 3	4984	-0.23710408806800842	-0.535129	No	
+row_7	UPF1	58	UPF1	UPF1 regulator of nonsense transcripts homolog (yeast)	5439	-0.30034351348876953	-0.5651252	No	
+row_8	SAP18	17	SAP18	Sin3A-associated protein, 18kDa	5754	-0.356306791305542	-0.57223773	Yes	
+row_9	CASC3	8	CASC3	cancer susceptibility candidate 3	5792	-0.36275622248649597	-0.5436418	Yes	
+row_10	WIBG	19	WIBG	within bgcn homolog (Drosophila)	5927	-0.38601526618003845	-0.5252088	Yes	
+row_11	UPF2	17	UPF2	UPF2 regulator of nonsense transcripts homolog (yeast)	6090	-0.4139139950275421	-0.5077655	Yes	
+row_12	ACIN1	56	ACIN1	apoptotic chromatin condensation inducer 1	6178	-0.4322563707828522	-0.47913095	Yes	
+row_13	UPF3A	2	UPF3A	UPF3 regulator of nonsense transcripts homolog A (yeast)	6256	-0.45084038376808167	-0.44752342	Yes	
+row_14	RBM8A	13	RBM8A	RNA binding motif protein 8A	6507	-0.5214576721191406	-0.43136805	Yes	
+row_15	POLDIP3	28	POLDIP3	polymerase (DNA-directed), delta interacting protein 3	6760	-0.5995380878448486	-0.40830156	Yes	
+row_16	PNN	33	PNN	pinin, desmosome associated protein	7437	-1.0269625186920166	-0.39976704	Yes	
+row_17	UPF3B	6	UPF3B	UPF3 regulator of nonsense transcripts homolog B (yeast)	7498	-1.0714226961135864	-0.30905953	Yes	
+row_18	SMG6	2	SMG6	Smg-6 homolog, nonsense mediated mRNA decay factor (C. elegans)	7704	-1.2733020782470703	-0.21820989	Yes	
+row_19	SRSF1	49	null	null	7896	-2.657128095626831	0.0013947769	Yes	

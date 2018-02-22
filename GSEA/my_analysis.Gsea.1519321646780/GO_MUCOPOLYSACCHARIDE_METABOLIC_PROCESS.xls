@@ -1,0 +1,45 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CSPG4	89	CSPG4	chondroitin sulfate proteoglycan 4 (melanoma-associated)	427	0.6767654418945312	-0.03489741	No	
+row_1	HMMR	14	HMMR	hyaluronan-mediated motility receptor (RHAMM)	1117	0.36868545413017273	-0.11194284	No	
+row_2	CHP	17	CHP	-	1156	0.35483884811401367	-0.106602915	No	
+row_3	LUM	1	LUM	lumican	1499	0.27207106351852417	-0.14229284	No	
+row_4	CD44	41	CD44	CD44 molecule (Indian blood group)	1689	0.23151768743991852	-0.15968956	No	
+row_5	FGF2	4	FGF2	fibroblast growth factor 2 (basic)	2987	0.024602951481938362	-0.32391307	No	
+row_6	GNS	45	GNS	glucosamine (N-acetyl)-6-sulfatase (Sanfilippo disease IIID)	3763	-0.08118505030870438	-0.4201361	No	
+row_7	GUSB	11	GUSB	glucuronidase, beta	4857	-0.221756711602211	-0.55276686	No	
+row_8	GALNS	6	GALNS	galactosamine (N-acetyl)-6-sulfate sulfatase (Morquio syndrome, mucopolysaccharidosis type IVA)	5170	-0.2590378522872925	-0.58501554	No	
+row_9	AKT1	12	AKT1	v-akt murine thymoma viral oncogene homolog 1	5552	-0.32254108786582947	-0.624218	No	
+row_10	B4GALT4	2	B4GALT4	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 4	5818	-0.36790764331817627	-0.64736915	No	
+row_11	HEXB	55	HEXB	hexosaminidase B (beta polypeptide)	6193	-0.4366472661495209	-0.68241036	No	
+row_12	HEXA	33	HEXA	hexosaminidase A (alpha polypeptide)	6343	-0.47547122836112976	-0.6877273	No	
+row_13	GLB1	19	GLB1	galactosidase, beta 1	6580	-0.5428062081336975	-0.7021769	Yes	
+row_14	IMPAD1	13	IMPAD1	inositol monophosphatase domain containing 1	6617	-0.5512793064117432	-0.6909514	Yes	
+row_15	B3GALT6	2	B3GALT6	UDP-Gal:betaGal beta 1,3-galactosyltransferase polypeptide 6	6653	-0.5617968440055847	-0.67929715	Yes	
+row_16	TGFB1	8	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	6675	-0.5690289735794067	-0.6656554	Yes	
+row_17	DSEL	1	null	null	6710	-0.580007016658783	-0.65335196	Yes	
+row_18	ITIH4	2	ITIH4	inter-alpha (globulin) inhibitor H4 (plasma Kallikrein-sensitive glycoprotein)	6784	-0.6088137030601501	-0.6451821	Yes	
+row_19	MKI67	25	MKI67	antigen identified by monoclonal antibody Ki-67	6790	-0.6103211045265198	-0.62832195	Yes	
+row_20	B3GAT3	9	B3GAT3	beta-1,3-glucuronyltransferase 3 (glucuronosyltransferase I)	6809	-0.6185105443000793	-0.6128802	Yes	
+row_21	SLC9A1	3	SLC9A1	solute carrier family 9 (sodium/hydrogen exchanger), member 1 (antiporter, Na+/H+, amiloride sensitive)	6823	-0.623619794845581	-0.59665614	Yes	
+row_22	ITIH2	3	ITIH2	inter-alpha (globulin) inhibitor H2	6859	-0.6368334293365479	-0.5828508	Yes	
+row_23	CHST3	2	CHST3	carbohydrate (chondroitin 6) sulfotransferase 3	6877	-0.6466473937034607	-0.56647533	Yes	
+row_24	B4GALT1	4	B4GALT1	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1	6919	-0.6703905463218689	-0.55247104	Yes	
+row_25	CHPF	8	CHPF	-	6957	-0.6877766847610474	-0.53745973	Yes	
+row_26	B4GALT5	2	B4GALT5	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 5	7016	-0.7163282632827759	-0.5243003	Yes	
+row_27	CSGALNACT2	2	null	null	7032	-0.723727285861969	-0.5054608	Yes	
+row_28	GLCE	4	GLCE	UDP-glucuronic acid epimerase	7054	-0.7353935241699219	-0.48704988	Yes	
+row_29	CHPF2	7	null	null	7089	-0.7579007744789124	-0.4696468	Yes	
+row_30	ARSB	8	ARSB	arylsulfatase B	7159	-0.7998127937316895	-0.45549294	Yes	
+row_31	IDS	5	IDS	iduronate 2-sulfatase (Hunter syndrome)	7166	-0.8059611916542053	-0.43315163	Yes	
+row_32	NDST1	2	NDST1	N-deacetylase/N-sulfotransferase (heparan glucosaminyl) 1	7202	-0.8385884761810303	-0.41356272	Yes	
+row_33	XYLT2	5	XYLT2	xylosyltransferase II	7344	-0.9527478814125061	-0.40418035	Yes	
+row_34	IDUA	2	IDUA	iduronidase, alpha-L-	7347	-0.9548690319061279	-0.37706167	Yes	
+row_35	CHST14	7	null	null	7374	-0.9743678569793701	-0.35243592	Yes	
+row_36	ITIH3	3	ITIH3	inter-alpha (globulin) inhibitor H3	7399	-0.9955756068229675	-0.3269479	Yes	
+row_37	B3GNT1	6	B3GNT1	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 1	7439	-1.0273447036743164	-0.3024566	Yes	
+row_38	VCAN	116	null	null	7706	-1.2753022909164429	-0.29972285	Yes	
+row_39	CHSY1	2	CHSY1	carbohydrate (chondroitin) synthase 1	7783	-1.4211783409118652	-0.2686466	Yes	
+row_40	ST3GAL6	1	ST3GAL6	ST3 beta-galactoside alpha-2,3-sialyltransferase 6	7843	-1.5755870342254639	-0.23098218	Yes	
+row_41	KIAA1199	9	KIAA1199	KIAA1199	7881	-1.9695889949798584	-0.17922547	Yes	
+row_42	IL1B	13	IL1B	interleukin 1, beta	7891	-2.354959011077881	-0.11286092	Yes	
+row_43	BGN	1	BGN	biglycan	7903	-4.003539562225342	5.087375E-4	Yes	

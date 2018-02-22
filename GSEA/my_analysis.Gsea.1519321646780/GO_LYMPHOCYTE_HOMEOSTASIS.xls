@@ -1,0 +1,23 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LYN	11	LYN	v-yes-1 Yamaguchi sarcoma viral related oncogene homolog	680	0.5345267057418823	-0.04436969	No	
+row_1	STAT5B	7	STAT5B	signal transducer and activator of transcription 5B	1510	0.2696413993835449	-0.12837693	No	
+row_2	SIVA1	1	null	null	1624	0.24470798671245575	-0.12354291	No	
+row_3	ZC3H8	1	ZC3H8	zinc finger CCCH-type containing 8	1803	0.21146364510059357	-0.12955473	No	
+row_4	CASP3	19	CASP3	caspase 3, apoptosis-related cysteine peptidase	1987	0.17761613428592682	-0.1388512	No	
+row_5	FADD	9	FADD	Fas (TNFRSF6)-associated via death domain	2237	0.13726188242435455	-0.15967709	No	
+row_6	RPS6	24	RPS6	ribosomal protein S6	2817	0.04882776737213135	-0.22927462	No	
+row_7	BCL2	1	BCL2	B-cell CLL/lymphoma 2	2994	0.023742415010929108	-0.24973337	No	
+row_8	FAS	14	FAS	Fas (TNF receptor superfamily, member 6)	3173	-0.0014876351924613118	-0.2721885	No	
+row_9	BAK1	3	BAK1	BCL2-antagonist/killer 1	3310	-0.018664665520191193	-0.28797263	No	
+row_10	BAX	18	BAX	BCL2-associated X protein	3976	-0.107977956533432	-0.36384347	No	
+row_11	CORO1A	10	CORO1A	coronin, actin binding protein, 1A	4547	-0.1817161589860916	-0.42189318	No	
+row_12	PKN1	14	PKN1	protein kinase N1	4556	-0.18282081186771393	-0.40859085	No	
+row_13	PPP3CB	15	PPP3CB	protein phosphatase 3 (formerly 2B), catalytic subunit, beta isoform (calcineurin A beta)	4649	-0.19249087572097778	-0.40518302	No	
+row_14	SOS1	7	SOS1	son of sevenless homolog 1 (Drosophila)	5350	-0.28486865758895874	-0.47163972	No	
+row_15	AKT1	12	AKT1	v-akt murine thymoma viral oncogene homolog 1	5552	-0.32254108786582947	-0.47186956	No	
+row_16	DNAJA3	17	DNAJA3	DnaJ (Hsp40) homolog, subfamily A, member 3	5585	-0.3278019428253174	-0.45025703	No	
+row_17	RC3H2	5	null	null	5596	-0.3299236595630646	-0.4256886	No	
+row_18	ABL1	9	ABL1	v-abl Abelson murine leukemia viral oncogene homolog 1	6272	-0.45537635684013367	-0.47562256	No	
+row_19	TGFB1	8	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	6675	-0.5690289735794067	-0.48203802	No	
+row_20	RC3H1	5	RC3H1	ring finger and CCCH-type zinc finger domains 1	7396	-0.9940019249916077	-0.49549824	Yes	
+row_21	IL2RA	4	IL2RA	interleukin 2 receptor, alpha	7905	-7.1531853675842285	2.5354937E-4	Yes	

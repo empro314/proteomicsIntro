@@ -1,0 +1,22 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CHMP4B	24	CHMP4B	chromatin modifying protein 4B	117	1.1213359832763672	0.257516	Yes	
+row_1	CHMP4C	10	CHMP4C	chromatin modifying protein 4C	980	0.409401535987854	0.24765785	Yes	
+row_2	CHMP5	12	CHMP5	chromatin modifying protein 5	1483	0.2756968140602112	0.25097018	Yes	
+row_3	CHMP4A	18	CHMP4A	chromatin modifying protein 4A	1495	0.27335789799690247	0.31596875	Yes	
+row_4	LRSAM1	20	LRSAM1	leucine rich repeat and sterile alpha motif containing 1	1852	0.20258212089538574	0.3200344	Yes	
+row_5	VPS4B	35	VPS4B	vacuolar protein sorting 4 homolog B (S. cerevisiae)	1854	0.20202726125717163	0.3689761	Yes	
+row_6	VPS37C	6	VPS37C	vacuolar protein sorting 37 homolog C (S. cerevisiae)	1905	0.1937451809644699	0.40969345	Yes	
+row_7	CHMP2B	5	CHMP2B	chromatin modifying protein 2B	2207	0.14313623309135437	0.40629438	Yes	
+row_8	VTA1	17	null	null	2211	0.1422101855278015	0.4404541	Yes	
+row_9	FAM125A	7	FAM125A	family with sequence similarity 125, member A	2320	0.12276970595121384	0.45657903	Yes	
+row_10	CHMP1A	2	null	null	2567	0.08849810063838959	0.4468829	No	
+row_11	CHMP2A	11	CHMP2A	chromatin modifying protein 2A	2752	0.05771607160568237	0.4375715	No	
+row_12	PDCD6IP	69	PDCD6IP	programmed cell death 6 interacting protein	2823	0.04748392477631569	0.44022903	No	
+row_13	CHMP1B	4	CHMP1B	chromatin modifying protein 1B	3115	0.004952415358275175	0.4045357	No	
+row_14	VPS37A	9	VPS37A	vacuolar protein sorting 37 homolog A (S. cerevisiae)	3134	0.002606156747788191	0.40288648	No	
+row_15	TSG101	29	TSG101	tumor susceptibility gene 101	3414	-0.03492840379476547	0.37599522	No	
+row_16	VPS28	16	VPS28	vacuolar protein sorting 28 homolog (S. cerevisiae)	3676	-0.06684701144695282	0.35913864	No	
+row_17	CHMP6	15	CHMP6	chromatin modifying protein 6	4081	-0.11918599158525467	0.33686304	No	
+row_18	VPS4A	21	VPS4A	vacuolar protein sorting 4 homolog A (S. cerevisiae)	4367	-0.15828490257263184	0.33917192	No	
+row_19	VPS37B	13	VPS37B	vacuolar protein sorting 37 homolog B (S. cerevisiae)	4539	-0.18037760257720947	0.36130086	No	
+row_20	CHMP7	10	CHMP7	CHMP family, member 7	5252	-0.27010875940322876	0.33662987	No	

@@ -1,0 +1,18 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ID1	2	ID1	inhibitor of DNA binding 1, dominant negative helix-loop-helix protein	432	0.6744750142097473	0.04344906	No	
+row_1	ATP2B4	33	ATP2B4	ATPase, Ca++ transporting, plasma membrane 4	567	0.5895306468009949	0.11229584	No	
+row_2	GNB1	38	GNB1	guanine nucleotide binding protein (G protein), beta polypeptide 1	1503	0.2713853418827057	0.033316676	No	
+row_3	SIRT2	5	SIRT2	sirtuin (silent mating type information regulation 2 homolog) 2 (S. cerevisiae)	2439	0.10760271549224854	-0.06950715	No	
+row_4	ADCY6	1	ADCY6	adenylate cyclase 6	2479	0.10115775465965271	-0.05972221	No	
+row_5	GSK3B	12	GSK3B	glycogen synthase kinase 3 beta	3256	-0.01177008543163538	-0.15634851	No	
+row_6	SIN3A	29	SIN3A	SIN3 homolog A, transcription regulator (yeast)	3489	-0.04472559317946434	-0.17923762	No	
+row_7	HDAC2	17	HDAC2	histone deacetylase 2	3583	-0.056968554854393005	-0.1827293	No	
+row_8	DNM2	1	DNM2	dynamin 2	4913	-0.22876204550266266	-0.31784418	No	
+row_9	GNAS	18	GNAS	GNAS complex locus	4974	-0.23611830174922943	-0.29107195	No	
+row_10	PRKACA	12	PRKACA	protein kinase, cAMP-dependent, catalytic, alpha	5313	-0.2787505090236664	-0.29332304	No	
+row_11	SNCA	17	SNCA	synuclein, alpha (non A4 component of amyloid precursor)	6191	-0.43571600317955017	-0.34102762	Yes	
+row_12	ABL1	9	ABL1	v-abl Abelson murine leukemia viral oncogene homolog 1	6272	-0.45537635684013367	-0.28486875	Yes	
+row_13	GNG2	1	GNG2	guanine nucleotide binding protein (G protein), gamma 2	6435	-0.5000503063201904	-0.2325975	Yes	
+row_14	SLC9A1	3	SLC9A1	solute carrier family 9 (sodium/hydrogen exchanger), member 1 (antiporter, Na+/H+, amiloride sensitive)	6823	-0.623619794845581	-0.1908496	Yes	
+row_15	APP	38	APP	amyloid beta (A4) precursor protein (peptidase nexin-II, Alzheimer disease)	7103	-0.7666265368461609	-0.11459528	Yes	
+row_16	RNLS	2	null	null	7812	-1.486096978187561	0.012039053	Yes	

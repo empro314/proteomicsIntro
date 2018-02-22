@@ -1,0 +1,18 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ICAM1	2	ICAM1	intercellular adhesion molecule 1 (CD54), human rhinovirus receptor	6	3.752307653427124	0.4858994	Yes	
+row_1	BCL10	15	BCL10	B-cell CLL/lymphoma 10	506	0.6219006776809692	0.5033209	Yes	
+row_2	MYH9	2	MYH9	myosin, heavy chain 9, non-muscle	663	0.5438444018363953	0.554086	Yes	
+row_3	SOCS6	2	SOCS6	suppressor of cytokine signaling 6	693	0.5270775556564331	0.61877084	Yes	
+row_4	ALCAM	79	ALCAM	activated leukocyte cell adhesion molecule	2146	0.15160420536994934	0.45442626	No	
+row_5	PRKAR1A	37	PRKAR1A	protein kinase, cAMP-dependent, regulatory, type I, alpha (tissue specific extinguisher 1)	2218	0.14072611927986145	0.4636803	No	
+row_6	DLG1	43	DLG1	discs, large homolog 1 (Drosophila)	2617	0.08018896728754044	0.4236433	No	
+row_7	PDCD6IP	69	PDCD6IP	programmed cell death 6 interacting protein	2823	0.04748392477631569	0.4038228	No	
+row_8	EZR	107	null	null	2952	0.03034643828868866	0.3915376	No	
+row_9	CD81	8	CD81	CD81 molecule	4201	-0.13637381792068481	0.2510699	No	
+row_10	STOML2	29	STOML2	stomatin (EPB72)-like 2	4210	-0.13801853358745575	0.26795655	No	
+row_11	DUSP3	8	DUSP3	dual specificity phosphatase 3 (vaccinia virus phosphatase VH1-related)	4527	-0.17927739024162292	0.2511625	No	
+row_12	CORO1A	10	CORO1A	coronin, actin binding protein, 1A	4547	-0.1817161589860916	0.2723226	No	
+row_13	LGALS3	12	LGALS3	lectin, galactoside-binding, soluble, 3 (galectin 3)	4602	-0.18762855231761932	0.28981405	No	
+row_14	STX7	13	STX7	syntaxin 7	4741	-0.2060963213443756	0.29905567	No	
+row_15	SNX27	16	SNX27	sorting nexin family member 27	5845	-0.3732970356941223	0.20769134	No	
+row_16	PTPRJ	31	PTPRJ	protein tyrosine phosphatase, receptor type, J	6078	-0.4124434292316437	0.23178308	No	

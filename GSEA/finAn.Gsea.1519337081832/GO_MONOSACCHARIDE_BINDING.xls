@@ -1,0 +1,43 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	G6PD	64	G6PD	glucose-6-phosphate dehydrogenase	90	1.2409251928329468	0.058449604	No	
+row_1	TALDO1	30	TALDO1	transaldolase 1	149	1.0225127935409546	0.10866595	No	
+row_2	ALKBH3	4	ALKBH3	alkB, alkylation repair homolog 3 (E. coli)	882	0.43725964426994324	0.040234506	No	
+row_3	ALDOA	120	ALDOA	aldolase A, fructose-bisphosphate	1087	0.3780922591686249	0.035594974	No	
+row_4	OGT	25	OGT	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	1907	0.1933586448431015	-0.057633694	No	
+row_5	GALK1	11	GALK1	galactokinase 1	2283	0.12965936958789825	-0.098004565	No	
+row_6	PGLS	25	PGLS	6-phosphogluconolactonase	2595	0.08434630930423737	-0.13279127	No	
+row_7	PHYH	3	PHYH	phytanoyl-CoA 2-hydroxylase	2847	0.04507387429475784	-0.16216211	No	
+row_8	GNPNAT1	9	GNPNAT1	glucosamine-phosphate N-acetyltransferase 1	2997	0.022961245849728584	-0.17981116	No	
+row_9	HK1	69	HK1	hexokinase 1	3067	0.012546048499643803	-0.18787648	No	
+row_10	IGF2R	113	IGF2R	insulin-like growth factor 2 receptor	3204	-0.0053439270704984665	-0.2048651	No	
+row_11	PYGL	46	PYGL	phosphorylase, glycogen; liver (Hers disease, glycogen storage disease type VI)	3404	-0.03349411487579346	-0.2282774	No	
+row_12	PFKM	32	PFKM	phosphofructokinase, muscle	3601	-0.0593072883784771	-0.24985448	No	
+row_13	UGP2	41	UGP2	UDP-glucose pyrophosphorylase 2	3703	-0.07102975249290466	-0.25869402	No	
+row_14	EGLN1	15	EGLN1	egl nine homolog 1 (C. elegans)	3909	-0.10049563646316528	-0.27909544	No	
+row_15	RPIA	4	RPIA	ribose 5-phosphate isomerase A (ribose 5-phosphate epimerase)	4130	-0.1259639710187912	-0.29996938	No	
+row_16	OGFOD1	17	OGFOD1	2-oxoglutarate and iron-dependent oxygenase domain containing 1	4321	-0.15227246284484863	-0.3155477	No	
+row_17	LMAN2	22	LMAN2	lectin, mannose-binding 2	4448	-0.16965383291244507	-0.3220108	No	
+row_18	P4HTM	8	null	null	4645	-0.19224219024181366	-0.3361007	No	
+row_19	DPM1	13	DPM1	dolichyl-phosphate mannosyltransferase polypeptide 1, catalytic subunit	4659	-0.19367913901805878	-0.32684502	No	
+row_20	HK2	44	HK2	hexokinase 2	4983	-0.23706142604351044	-0.35455608	No	
+row_21	PLOD3	42	PLOD3	procollagen-lysine, 2-oxoglutarate 5-dioxygenase 3	5450	-0.30199703574180603	-0.39678934	Yes	
+row_22	LMAN2L	11	LMAN2L	lectin, mannose-binding 2-like	5468	-0.3070380687713623	-0.38165757	Yes	
+row_23	TMLHE	7	TMLHE	trimethyllysine hydroxylase, epsilon	5494	-0.3112225830554962	-0.36730716	Yes	
+row_24	GPI	41	GPI	glucose phosphate isomerase	5704	-0.3458659052848816	-0.3743974	Yes	
+row_25	PFKL	37	PFKL	phosphofructokinase, liver	5841	-0.3726986050605774	-0.37069592	Yes	
+row_26	GYS1	14	GYS1	glycogen synthase 1 (muscle)	5865	-0.3763231635093689	-0.35242465	Yes	
+row_27	LMAN1	28	LMAN1	lectin, mannose-binding, 1	6036	-0.4044591784477234	-0.35125676	Yes	
+row_28	C17orf101	3	null	null	6051	-0.40716490149497986	-0.33010426	Yes	
+row_29	CLN5	11	CLN5	ceroid-lipofuscinosis, neuronal 5	6461	-0.5073941946029663	-0.3535228	Yes	
+row_30	PAM	10	PAM	peptidylglycine alpha-amidating monooxygenase	6509	-0.5222726464271545	-0.3300825	Yes	
+row_31	MANBA	15	MANBA	mannosidase, beta A, lysosomal	6539	-0.5304881930351257	-0.30389115	Yes	
+row_32	PLOD2	79	PLOD2	procollagen-lysine, 2-oxoglutarate 5-dioxygenase 2	6635	-0.557346522808075	-0.28457764	Yes	
+row_33	P4HA1	44	P4HA1	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), alpha polypeptide I	6725	-0.5845822095870972	-0.26296738	Yes	
+row_34	P4HA2	32	P4HA2	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), alpha polypeptide II	6805	-0.6154501438140869	-0.23834729	Yes	
+row_35	BSG	20	BSG	basigin (Ok blood group)	6831	-0.6258544921875	-0.20627622	Yes	
+row_36	LEPRE1	48	LEPRE1	leucine proline-enriched proteoglycan (leprecan) 1	6855	-0.6351894736289978	-0.17342514	Yes	
+row_37	PLOD1	64	PLOD1	procollagen-lysine 1, 2-oxoglutarate 5-dioxygenase 1	7342	-0.9494451880455017	-0.18173549	Yes	
+row_38	LEPREL2	43	LEPREL2	leprecan-like 2	7417	-1.012965202331543	-0.13409095	Yes	
+row_39	LEPREL1	15	LEPREL1	leprecan-like 1	7520	-1.089080572128296	-0.08571907	Yes	
+row_40	M6PR	15	M6PR	mannose-6-phosphate receptor (cation dependent)	7526	-1.0926660299301147	-0.024813708	Yes	
+row_41	SLC2A3	1	SLC2A3	solute carrier family 2 (facilitated glucose transporter), member 3	7723	-1.2983059883117676	0.023391971	Yes	

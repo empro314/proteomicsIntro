@@ -1,0 +1,14 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HLA-E	1	HLA-E	major histocompatibility complex, class I, E	165	0.9879697561264038	0.063966505	No	
+row_1	B2M	7	B2M	beta-2-microglobulin	384	0.7111106514930725	0.097437926	No	
+row_2	LAMP1	17	LAMP1	lysosomal-associated membrane protein 1	1244	0.33308690786361694	0.017246785	No	
+row_3	STAT5B	7	STAT5B	signal transducer and activator of transcription 5B	1510	0.2696413993835449	0.0068432167	No	
+row_4	BAD	10	BAD	BCL2-antagonist of cell death	1662	0.23747144639492035	0.008115795	No	
+row_5	HLA-A	32	HLA-A	major histocompatibility complex, class I, A	2021	0.1724107414484024	-0.022419415	No	
+row_6	FADD	9	FADD	Fas (TNFRSF6)-associated via death domain	2237	0.13726188242435455	-0.037861157	No	
+row_7	AP1G1	23	AP1G1	adaptor-related protein complex 1, gamma 1 subunit	2750	0.05791432410478592	-0.097737536	No	
+row_8	PVR	11	PVR	poliovirus receptor	3740	-0.07813470810651779	-0.21629499	No	
+row_9	STX7	13	STX7	syntaxin 7	4741	-0.2060963213443756	-0.32525393	No	
+row_10	PVRL2	4	PVRL2	poliovirus receptor-related 2 (herpesvirus entry mediator B)	4790	-0.21208778023719788	-0.31311554	No	
+row_11	HLA-B	1	HLA-B	major histocompatibility complex, class I, B	5209	-0.2644627094268799	-0.34334332	Yes	
+row_12	CADM1	3	null	null	7906	-7.973903179168701	1.2663301E-4	Yes	

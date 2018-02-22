@@ -1,0 +1,13 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ALDH2	26	ALDH2	aldehyde dehydrogenase 2 family (mitochondrial)	249	0.8604342341423035	0.13504316	Yes	
+row_1	ALDH1B1	41	ALDH1B1	aldehyde dehydrogenase 1 family, member B1	318	0.7726619839668274	0.2760168	Yes	
+row_2	ALDH3A2	13	ALDH3A2	aldehyde dehydrogenase 3 family, member A2	496	0.6315143704414368	0.37586012	Yes	
+row_3	ALDH1A2	5	ALDH1A2	aldehyde dehydrogenase 1 family, member A2	756	0.4936751127243042	0.43863308	Yes	
+row_4	ALDH9A1	35	ALDH9A1	aldehyde dehydrogenase 9 family, member A1	1166	0.35336899757385254	0.45524615	Yes	
+row_5	ADH5	21	ADH5	alcohol dehydrogenase 5 (class III), chi polypeptide	1259	0.3294244706630707	0.50737053	Yes	
+row_6	ALDH5A1	11	ALDH5A1	aldehyde dehydrogenase 5 family, member A1 (succinate-semialdehyde dehydrogenase)	1520	0.26810362935066223	0.5263467	Yes	
+row_7	ALDH7A1	34	ALDH7A1	aldehyde dehydrogenase 7 family, member A1	2072	0.16455872356891632	0.48842272	No	
+row_8	ALDH4A1	15	ALDH4A1	aldehyde dehydrogenase 4 family, member A1	2267	0.13225074112415314	0.48945674	No	
+row_9	ALDH16A1	15	ALDH16A1	aldehyde dehydrogenase 16 family, member A1	5031	-0.24303337931632996	0.18658343	No	
+row_10	ALDH6A1	18	ALDH6A1	aldehyde dehydrogenase 6 family, member A1	5449	-0.3019789159297943	0.19223431	No	
+row_11	ALDH1A3	33	ALDH1A3	aldehyde dehydrogenase 1 family, member A3	6801	-0.6143452525138855	0.14007086	No	

@@ -1,0 +1,26 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DHFRL1	4	DHFRL1	dihydrofolate reductase-like 1	107	1.17314875125885	0.15406398	Yes	
+row_1	NME2P1	25	NME2P1	non-metastatic cells 2, protein (NM23B) expressed in, pseudogene 1	269	0.8370964527130127	0.25325748	Yes	
+row_2	DUT	30	DUT	dUTP pyrophosphatase	561	0.5912460684776306	0.3008289	Yes	
+row_3	CMPK1	17	null	null	689	0.5282837152481079	0.36020756	Yes	
+row_4	UPP1	13	UPP1	uridine phosphorylase 1	794	0.47818616032600403	0.4153452	Yes	
+row_5	DCTD	11	DCTD	dCMP deaminase	939	0.41991159319877625	0.45708147	Yes	
+row_6	NME2	41	NME2	non-metastatic cells 2, protein (NM23B) expressed in	1704	0.22813141345977783	0.39276296	No	
+row_7	HDHD1	7	null	null	1925	0.18948741257190704	0.39193168	No	
+row_8	UCK2	8	UCK2	uridine-cytidine kinase 2	2592	0.08466740697622299	0.31954464	No	
+row_9	NME3	5	NME3	non-metastatic cells 3, protein expressed in	2604	0.08284934610128403	0.32998803	No	
+row_10	UMPS	26	UMPS	uridine monophosphate synthetase (orotate phosphoribosyl transferase and orotidine-5'-decarboxylase)	2730	0.06260895729064941	0.32307765	No	
+row_11	NME6	4	NME6	non-metastatic cells 6, protein expressed in (nucleoside-diphosphate kinase)	3116	0.004821475129574537	0.27492735	No	
+row_12	UPRT	3	null	null	3214	-0.0067681604996323586	0.26358953	No	
+row_13	UCKL1	1	UCKL1	uridine-cytidine kinase 1-like 1	3271	-0.013970003463327885	0.25848186	No	
+row_14	DCK	11	DCK	deoxycytidine kinase	3390	-0.031077560037374496	0.24795379	No	
+row_15	TYMS	6	TYMS	thymidylate synthetase	3393	-0.03174358978867531	0.2522361	No	
+row_16	CTPS	25	CTPS	CTP synthase	3545	-0.0512763075530529	0.2404081	No	
+row_17	NME7	8	NME7	non-metastatic cells 7, protein expressed in (nucleoside-diphosphate kinase)	3849	-0.09282467514276505	0.21523516	No	
+row_18	DHODH	5	DHODH	dihydroorotate dehydrogenase	4409	-0.16394326090812683	0.1677498	No	
+row_19	CAD	85	CAD	carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase	4855	-0.22170181572437286	0.14297937	No	
+row_20	TK1	7	TK1	thymidine kinase 1, soluble	5155	-0.25741881132125854	0.1418336	No	
+row_21	CTPS2	8	CTPS2	CTP synthase II	5227	-0.266414076089859	0.17089622	No	
+row_22	UCK1	2	UCK1	uridine-cytidine kinase 1	5751	-0.3555736839771271	0.15536074	No	
+row_23	TK2	4	TK2	thymidine kinase 2, mitochondrial	5904	-0.38173240423202515	0.19062653	No	
+row_24	NME4	7	NME4	non-metastatic cells 4, protein expressed in	6224	-0.44324633479118347	0.21349755	No	

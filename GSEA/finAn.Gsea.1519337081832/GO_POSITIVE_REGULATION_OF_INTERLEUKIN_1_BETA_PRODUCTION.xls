@@ -1,0 +1,12 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HMGB1	23	HMGB1	high-mobility group box 1	110	1.1518224477767944	0.19756217	Yes	
+row_1	TRIM16	12	TRIM16	tripartite motif-containing 16	313	0.7877184748649597	0.31661952	Yes	
+row_2	HSPB1	97	HSPB1	heat shock 27kDa protein 1	316	0.7797492742538452	0.45953965	Yes	
+row_3	CASP1	11	CASP1	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)	639	0.5534986257553101	0.52039516	Yes	
+row_4	WNT5A	5	WNT5A	wingless-type MMTV integration site family, member 5A	683	0.5322704315185547	0.61268276	Yes	
+row_5	IFI16	35	IFI16	interferon, gamma-inducible protein 16	1106	0.3718215823173523	0.6275166	Yes	
+row_6	GSDMD	7	null	null	1150	0.3564199209213257	0.68751544	Yes	
+row_7	CARD8	2	CARD8	caspase recruitment domain family, member 8	1946	0.1853342205286026	0.6208744	No	
+row_8	SMAD3	11	SMAD3	SMAD, mothers against DPP homolog 3 (Drosophila)	2099	0.1591992974281311	0.63085794	No	
+row_9	PANX1	3	PANX1	pannexin 1	4070	-0.11767365783452988	0.4030027	No	
+row_10	IFNAR1	2	IFNAR1	interferon (alpha, beta and omega) receptor 1	6255	-0.45067933201789856	0.20919336	No	

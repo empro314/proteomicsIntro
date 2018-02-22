@@ -1,0 +1,18 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ADA	12	ADA	adenosine deaminase	102	1.1984927654266357	0.21563926	Yes	
+row_1	APRT	14	APRT	adenine phosphoribosyltransferase	460	0.6569036245346069	0.2956764	Yes	
+row_2	ADAL	1	ADAL	adenosine deaminase-like	494	0.6322395205497742	0.41206926	Yes	
+row_3	CMPK1	17	null	null	689	0.5282837152481079	0.48823363	Yes	
+row_4	PRPS1	7	PRPS1	phosphoribosyl pyrophosphate synthetase 1	1118	0.36838099360466003	0.5042488	Yes	
+row_5	GART	70	GART	phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase	2049	0.16851603984832764	0.41853085	No	
+row_6	MTOR	26	null	null	2387	0.11476138979196548	0.39771017	No	
+row_7	CPS1	38	CPS1	carbamoyl-phosphate synthetase 1, mitochondrial	2466	0.10325103253126144	0.4075166	No	
+row_8	SHMT1	14	SHMT1	serine hydroxymethyltransferase 1 (soluble)	2717	0.065725177526474	0.3883694	No	
+row_9	GMPS	41	GMPS	guanine monphosphate synthetase	2726	0.06321605294942856	0.3994116	No	
+row_10	UMPS	26	UMPS	uridine monophosphate synthetase (orotate phosphoribosyl transferase and orotidine-5'-decarboxylase)	2730	0.06260895729064941	0.41097158	No	
+row_11	PPAT	19	PPAT	phosphoribosyl pyrophosphate amidotransferase	3406	-0.03366071358323097	0.33185056	No	
+row_12	PAICS	24	PAICS	phosphoribosylaminoimidazole carboxylase, phosphoribosylaminoimidazole succinocarboxamide synthetase	4245	-0.1427953690290451	0.25288624	No	
+row_13	DHODH	5	DHODH	dihydroorotate dehydrogenase	4409	-0.16394326090812683	0.26349553	No	
+row_14	CAD	85	CAD	carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase	4855	-0.22170181572437286	0.24938308	No	
+row_15	PRTFDC1	6	PRTFDC1	phosphoribosyl transferase domain containing 1	5623	-0.33332401514053345	0.21575218	No	
+row_16	HPRT1	20	HPRT1	hypoxanthine phosphoribosyltransferase 1 (Lesch-Nyhan syndrome)	5925	-0.38574016094207764	0.25117224	No	

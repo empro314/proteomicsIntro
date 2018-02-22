@@ -1,0 +1,18 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ICAM1	2	ICAM1	intercellular adhesion molecule 1 (CD54), human rhinovirus receptor	6	3.752307653427124	0.34353462	Yes	
+row_1	FKBP1A	12	FKBP1A	FK506 binding protein 1A, 12kDa	151	1.0187885761260986	0.41876546	Yes	
+row_2	SRI	34	SRI	sorcin	259	0.8437888026237488	0.482628	Yes	
+row_3	PAWR	37	PAWR	PRKC, apoptosis, WT1, regulator	317	0.7728155851364136	0.54631466	Yes	
+row_4	UBQLN1	24	UBQLN1	ubiquilin 1	369	0.7198079824447632	0.60589796	Yes	
+row_5	GSTM2	6	GSTM2	glutathione S-transferase M2 (muscle)	1327	0.314590185880661	0.51348597	No	
+row_6	CALM1	17	CALM1	calmodulin 1 (phosphorylase kinase, delta)	1572	0.25656476616859436	0.5061059	No	
+row_7	BCL2	1	BCL2	B-cell CLL/lymphoma 2	2994	0.023742415010929108	0.32820582	No	
+row_8	PACSIN3	19	PACSIN3	protein kinase C and casein kinase substrate in neurons 3	3681	-0.06802686303853989	0.24751318	No	
+row_9	INPP5K	3	null	null	4078	-0.11900737136602402	0.208249	No	
+row_10	GSTO1	35	GSTO1	glutathione S-transferase omega 1	4111	-0.12339011579751968	0.21551548	No	
+row_11	PKD2	19	PKD2	polycystic kidney disease 2 (autosomal dominant)	5128	-0.25452741980552673	0.1101155	No	
+row_12	SLC30A1	10	SLC30A1	solute carrier family 30 (zinc transporter), member 1	5228	-0.2666950821876526	0.12204031	No	
+row_13	TRIM27	1	TRIM27	tripartite motif-containing 27	6558	-0.5343469977378845	0.0026498835	No	
+row_14	TGFB1	8	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	6675	-0.5690289735794067	0.040161144	No	
+row_15	STC1	1	STC1	stanniocalcin 1	6681	-0.5705980658531189	0.09188303	No	
+row_16	FMR1	13	FMR1	fragile X mental retardation 1	6966	-0.6904993057250977	0.1192498	No	

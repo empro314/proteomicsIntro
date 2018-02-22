@@ -1,0 +1,17 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SUB1	10	SUB1	SUB1 homolog (S. cerevisiae)	339	0.7480975985527039	0.049040116	No	
+row_1	RBM14	41	RBM14	RNA binding motif protein 14	686	0.5290628671646118	0.07025813	No	
+row_2	VIM	1077	VIM	vimentin	921	0.42689621448516846	0.0931041	No	
+row_3	INHBA	9	INHBA	inhibin, beta A (activin A, activin AB alpha polypeptide)	1311	0.3174150288105011	0.08284682	No	
+row_4	ROR2	1	ROR2	receptor tyrosine kinase-like orphan receptor 2	1574	0.2563251554965973	0.08116944	No	
+row_5	SMAD2	2	SMAD2	SMAD, mothers against DPP homolog 2 (Drosophila)	2015	0.17326407134532928	0.046723396	No	
+row_6	SMAD3	11	SMAD3	SMAD, mothers against DPP homolog 3 (Drosophila)	2099	0.1591992974281311	0.05578346	No	
+row_7	SMAD4	10	SMAD4	SMAD, mothers against DPP homolog 4 (Drosophila)	2719	0.06492996215820312	-0.0146658365	No	
+row_8	SMAD5	9	SMAD5	SMAD, mothers against DPP homolog 5 (Drosophila)	3397	-0.032664038240909576	-0.09643215	No	
+row_9	JUN	13	JUN	jun oncogene	3878	-0.0963917225599289	-0.14539976	No	
+row_10	AFP	4	AFP	alpha-fetoprotein	4348	-0.1552463173866272	-0.18573609	No	
+row_11	SLC33A1	8	SLC33A1	solute carrier family 33 (acetyl-CoA transporter), member 1	5006	-0.23948149383068085	-0.23953545	No	
+row_12	LNPEP	36	LNPEP	leucyl/cystinyl aminopeptidase	6068	-0.4110362231731415	-0.32342947	No	
+row_13	TGFB1	8	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	6675	-0.5690289735794067	-0.3302415	Yes	
+row_14	TGFB2	12	TGFB2	transforming growth factor, beta 2	7651	-1.212152361869812	-0.30472362	Yes	
+row_15	GDF6	1	GDF6	growth differentiation factor 6	7899	-2.740745782852173	0.0010136435	Yes	

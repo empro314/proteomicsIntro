@@ -1,0 +1,17 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	C1QBP	52	C1QBP	complement component 1, q subcomponent binding protein	241	0.8723909258842468	0.030964052	No	
+row_1	TARBP2	8	TARBP2	Tar (HIV-1) RNA binding protein 2	426	0.6771213412284851	0.055384606	No	
+row_2	PCBP2	30	PCBP2	poly(rC) binding protein 2	724	0.5103455185890198	0.053729594	No	
+row_3	PPM1B	13	PPM1B	protein phosphatase 1B (formerly 2C), magnesium-dependent, beta isoform	2123	0.15473076701164246	-0.1125037	No	
+row_4	DAK	10	DAK	dihydroxyacetone kinase 2 homolog (S. cerevisiae)	3114	0.005249714944511652	-0.2375771	No	
+row_5	IFIT1	6	IFIT1	interferon-induced protein with tetratricopeptide repeats 1	4107	-0.12274862825870514	-0.35462055	No	
+row_6	SEC14L1	6	SEC14L1	SEC14-like 1 (S. cerevisiae)	4218	-0.13948361575603485	-0.3587255	No	
+row_7	TSPAN6	5	TSPAN6	tetraspanin 6	5103	-0.2517508268356323	-0.45298988	No	
+row_8	TRIM38	6	TRIM38	tripartite motif-containing 38	5506	-0.313145250082016	-0.4818516	No	
+row_9	NLRX1	2	null	null	5518	-0.3154607117176056	-0.46100625	No	
+row_10	TRAF3IP1	7	TRAF3IP1	TNF receptor-associated factor 3 interacting protein 1	5635	-0.33540692925453186	-0.45205936	No	
+row_11	MUL1	3	null	null	6367	-0.4802720844745636	-0.5108269	Yes	
+row_12	ITCH	12	ITCH	itchy homolog E3 ubiquitin protein ligase (mouse)	6420	-0.49562859535217285	-0.48247528	Yes	
+row_13	EIF2AK2	29	EIF2AK2	eukaryotic translation initiation factor 2-alpha kinase 2	6561	-0.5347068309783936	-0.46251932	Yes	
+row_14	HTRA1	4	HTRA1	HtrA serine peptidase 1	7868	-1.823289394378662	-0.49946618	Yes	
+row_15	IL2RA	4	IL2RA	interleukin 2 receptor, alpha	7905	-7.1531853675842285	2.532919E-4	Yes	

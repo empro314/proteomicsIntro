@@ -1,0 +1,27 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HMGB1	23	HMGB1	high-mobility group box 1	110	1.1518224477767944	0.06087565	No	
+row_1	LYN	11	LYN	v-yes-1 Yamaguchi sarcoma viral related oncogene homolog	680	0.5345267057418823	0.023412937	No	
+row_2	ANXA1	71	ANXA1	annexin A1	923	0.4253745675086975	0.020345768	No	
+row_3	STAT5B	7	STAT5B	signal transducer and activator of transcription 5B	1510	0.2696413993835449	-0.036482807	No	
+row_4	SIVA1	1	null	null	1624	0.24470798671245575	-0.034921106	No	
+row_5	ZC3H8	1	ZC3H8	zinc finger CCCH-type containing 8	1803	0.21146364510059357	-0.043765854	No	
+row_6	CASP3	19	CASP3	caspase 3, apoptosis-related cysteine peptidase	1987	0.17761613428592682	-0.05544396	No	
+row_7	FADD	9	FADD	Fas (TNFRSF6)-associated via death domain	2237	0.13726188242435455	-0.07811731	No	
+row_8	MTHFD1	75	MTHFD1	methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 1, methenyltetrahydrofolate cyclohydrolase, formyltetrahydrofolate synthetase	2653	0.07470811903476715	-0.12591529	No	
+row_9	RPS6	24	RPS6	ribosomal protein S6	2817	0.04882776737213135	-0.14342308	No	
+row_10	BCL2	1	BCL2	B-cell CLL/lymphoma 2	2994	0.023742415010929108	-0.16420995	No	
+row_11	FAS	14	FAS	Fas (TNF receptor superfamily, member 6)	3173	-0.0014876351924613118	-0.1866964	No	
+row_12	BAK1	3	BAK1	BCL2-antagonist/killer 1	3310	-0.018664665520191193	-0.2027383	No	
+row_13	BAX	18	BAX	BCL2-associated X protein	3976	-0.107977956533432	-0.28009266	No	
+row_14	CORO1A	10	CORO1A	coronin, actin binding protein, 1A	4547	-0.1817161589860916	-0.3406036	No	
+row_15	PKN1	14	PKN1	protein kinase N1	4556	-0.18282081186771393	-0.3297411	No	
+row_16	PPP3CB	15	PPP3CB	protein phosphatase 3 (formerly 2B), catalytic subunit, beta isoform (calcineurin A beta)	4649	-0.19249087572097778	-0.32890752	No	
+row_17	SOS1	7	SOS1	son of sevenless homolog 1 (Drosophila)	5350	-0.28486865758895874	-0.39921016	No	
+row_18	AKT1	12	AKT1	v-akt murine thymoma viral oncogene homolog 1	5552	-0.32254108786582947	-0.40375647	No	
+row_19	DNAJA3	17	DNAJA3	DnaJ (Hsp40) homolog, subfamily A, member 3	5585	-0.3278019428253174	-0.38651973	No	
+row_20	RC3H2	5	null	null	5596	-0.3299236595630646	-0.366354	No	
+row_21	ABL1	9	ABL1	v-abl Abelson murine leukemia viral oncogene homolog 1	6272	-0.45537635684013367	-0.4224073	No	
+row_22	TGFB1	8	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	6675	-0.5690289735794067	-0.43644097	No	
+row_23	JAM3	6	JAM3	junctional adhesion molecule 3	7370	-0.9706338047981262	-0.46142963	Yes	
+row_24	RC3H1	5	RC3H1	ring finger and CCCH-type zinc finger domains 1	7396	-0.9940019249916077	-0.4000232	Yes	
+row_25	IL2RA	4	IL2RA	interleukin 2 receptor, alpha	7905	-7.1531853675842285	2.5367943E-4	Yes	

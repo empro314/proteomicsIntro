@@ -1,0 +1,11 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SIRT2	5	SIRT2	sirtuin (silent mating type information regulation 2 homolog) 2 (S. cerevisiae)	2439	0.10760271549224854	-0.26506272	No	
+row_1	SIRT5	7	SIRT5	sirtuin (silent mating type information regulation 2 homolog) 5 (S. cerevisiae)	3088	0.01026899553835392	-0.3429336	No	
+row_2	SIRT3	7	SIRT3	sirtuin (silent mating type information regulation 2 homolog) 3 (S. cerevisiae)	3234	-0.009535248391330242	-0.35741577	No	
+row_3	CRYL1	3	CRYL1	crystallin, lambda 1	3447	-0.03793035447597504	-0.3688361	No	
+row_4	GLUD1	37	GLUD1	glutamate dehydrogenase 1	3466	-0.04106857255101204	-0.3544173	No	
+row_5	SIRT6	7	SIRT6	sirtuin (silent mating type information regulation 2 homolog) 6 (S. cerevisiae)	3543	-0.05110020190477371	-0.3432634	No	
+row_6	SIRT1	17	SIRT1	sirtuin (silent mating type information regulation 2 homolog) 1 (S. cerevisiae)	4816	-0.21636004745960236	-0.41634807	Yes	
+row_7	UXS1	7	UXS1	UDP-glucuronate decarboxylase 1	6329	-0.4712499678134918	-0.41618574	Yes	
+row_8	ALDH1A3	33	ALDH1A3	aldehyde dehydrogenase 1 family, member A3	6801	-0.6143452525138855	-0.22603749	Yes	
+row_9	HADH	12	HADH	hydroxyacyl-Coenzyme A dehydrogenase	7282	-0.9000484943389893	0.07913392	Yes	

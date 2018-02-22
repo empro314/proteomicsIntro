@@ -1,0 +1,17 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ALKBH3	4	ALKBH3	alkB, alkylation repair homolog 3 (E. coli)	882	0.43725964426994324	-0.05650776	No	
+row_1	PHYH	3	PHYH	phytanoyl-CoA 2-hydroxylase	2847	0.04507387429475784	-0.29967195	No	
+row_2	EGLN1	15	EGLN1	egl nine homolog 1 (C. elegans)	3909	-0.10049563646316528	-0.42141354	No	
+row_3	OGFOD1	17	OGFOD1	2-oxoglutarate and iron-dependent oxygenase domain containing 1	4321	-0.15227246284484863	-0.45425084	No	
+row_4	P4HTM	8	null	null	4645	-0.19224219024181366	-0.47088715	No	
+row_5	PLOD3	42	PLOD3	procollagen-lysine, 2-oxoglutarate 5-dioxygenase 3	5450	-0.30199703574180603	-0.5346029	Yes	
+row_6	TMLHE	7	TMLHE	trimethyllysine hydroxylase, epsilon	5494	-0.3112225830554962	-0.50072616	Yes	
+row_7	C17orf101	3	null	null	6051	-0.40716490149497986	-0.51972896	Yes	
+row_8	PAM	10	PAM	peptidylglycine alpha-amidating monooxygenase	6509	-0.5222726464271545	-0.5116427	Yes	
+row_9	PLOD2	79	PLOD2	procollagen-lysine, 2-oxoglutarate 5-dioxygenase 2	6635	-0.557346522808075	-0.45705667	Yes	
+row_10	P4HA1	44	P4HA1	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), alpha polypeptide I	6725	-0.5845822095870972	-0.39446765	Yes	
+row_11	P4HA2	32	P4HA2	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), alpha polypeptide II	6805	-0.6154501438140869	-0.32671112	Yes	
+row_12	LEPRE1	48	LEPRE1	leucine proline-enriched proteoglycan (leprecan) 1	6855	-0.6351894736289978	-0.25265905	Yes	
+row_13	PLOD1	64	PLOD1	procollagen-lysine 1, 2-oxoglutarate 5-dioxygenase 1	7342	-0.9494451880455017	-0.19427097	Yes	
+row_14	LEPREL2	43	LEPREL2	leprecan-like 2	7417	-1.012965202331543	-0.075651914	Yes	
+row_15	LEPREL1	15	LEPREL1	leprecan-like 1	7520	-1.089080572128296	0.04903699	Yes	

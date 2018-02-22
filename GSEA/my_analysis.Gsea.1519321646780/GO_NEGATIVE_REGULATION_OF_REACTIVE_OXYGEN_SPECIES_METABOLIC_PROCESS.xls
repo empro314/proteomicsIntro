@@ -1,0 +1,20 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CRYAB	1	CRYAB	crystallin, alpha B	9	3.2967162132263184	0.36118832	Yes	
+row_1	GLA	7	GLA	galactosidase, alpha	436	0.6731374263763428	0.381171	Yes	
+row_2	ATP2B4	33	ATP2B4	ATPase, Ca++ transporting, plasma membrane 4	567	0.5895306468009949	0.42948535	Yes	
+row_3	TSPO	5	TSPO	translocator protein (18kDa)	915	0.42843639850616455	0.4325878	Yes	
+row_4	CAV1	22	CAV1	caveolin 1, caveolae protein, 22kDa	924	0.424966961145401	0.4782802	Yes	
+row_5	SIRT2	5	SIRT2	sirtuin (silent mating type information regulation 2 homolog) 2 (S. cerevisiae)	2439	0.10760271549224854	0.2981936	No	
+row_6	ZC3H12A	1	ZC3H12A	zinc finger CCCH-type containing 12A	2480	0.10113313049077988	0.3042384	No	
+row_7	ATG5	12	ATG5	ATG5 autophagy related 5 homolog (S. cerevisiae)	2656	0.07441084086894989	0.29023382	No	
+row_8	BCL2	1	BCL2	B-cell CLL/lymphoma 2	2994	0.023742415010929108	0.25012553	No	
+row_9	STAT3	20	STAT3	signal transducer and activator of transcription 3 (acute-phase response factor)	3053	0.01438905205577612	0.24435498	No	
+row_10	SIRT5	7	SIRT5	sirtuin (silent mating type information regulation 2 homolog) 5 (S. cerevisiae)	3088	0.01026899553835392	0.2411738	No	
+row_11	VDAC1	75	VDAC1	voltage-dependent anion channel 1	3966	-0.1070311889052391	0.14176972	No	
+row_12	HDAC6	8	HDAC6	histone deacetylase 6	4349	-0.1558976024389267	0.11048197	No	
+row_13	TFAP2A	3	TFAP2A	transcription factor AP-2 alpha (activating enhancer binding protein 2 alpha)	4579	-0.18498563766479492	0.10178526	No	
+row_14	HK2	44	HK2	hexokinase 2	4983	-0.23706142604351044	0.076755956	No	
+row_15	TRAP1	54	TRAP1	TNF receptor-associated protein 1	5730	-0.3505480885505676	0.020721275	No	
+row_16	BRCA1	5	BRCA1	breast cancer 1, early onset	6335	-0.47288134694099426	-0.0038684928	No	
+row_17	AATF	17	AATF	apoptosis antagonizing transcription factor	6483	-0.5133817195892334	0.033921737	No	
+row_18	BECN1	14	BECN1	beclin 1 (coiled-coil, myosin-like BCL2 interacting protein)	7739	-1.332555890083313	0.021295458	No	

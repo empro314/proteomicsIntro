@@ -1,0 +1,21 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LTF	2	LTF	lactotransferrin	122	1.097120761871338	0.053084668	No	
+row_1	C1QBP	52	C1QBP	complement component 1, q subcomponent binding protein	241	0.8723909258842468	0.09263468	No	
+row_2	TARBP2	8	TARBP2	Tar (HIV-1) RNA binding protein 2	426	0.6771213412284851	0.11161655	No	
+row_3	PCBP2	30	PCBP2	poly(rC) binding protein 2	724	0.5103455185890198	0.105852254	No	
+row_4	PPM1B	13	PPM1B	protein phosphatase 1B (formerly 2C), magnesium-dependent, beta isoform	2123	0.15473076701164246	-0.06171097	No	
+row_5	SIRT2	5	SIRT2	sirtuin (silent mating type information regulation 2 homolog) 2 (S. cerevisiae)	2439	0.10760271549224854	-0.09492172	No	
+row_6	NFKBIL1	2	NFKBIL1	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor-like 1	2802	0.051479026675224304	-0.13759767	No	
+row_7	DAK	10	DAK	dihydroxyacetone kinase 2 homolog (S. cerevisiae)	3114	0.005249714944511652	-0.17669663	No	
+row_8	IFIT1	6	IFIT1	interferon-induced protein with tetratricopeptide repeats 1	4107	-0.12274862825870514	-0.2947876	No	
+row_9	SEC14L1	6	SEC14L1	SEC14-like 1 (S. cerevisiae)	4218	-0.13948361575603485	-0.3000175	No	
+row_10	TSPAN6	5	TSPAN6	tetraspanin 6	5103	-0.2517508268356323	-0.39635634	No	
+row_11	TRIM38	6	TRIM38	tripartite motif-containing 38	5506	-0.313145250082016	-0.42775366	No	
+row_12	NLRX1	2	null	null	5518	-0.3154607117176056	-0.4094373	No	
+row_13	TRAF3IP1	7	TRAF3IP1	TNF receptor-associated factor 3 interacting protein 1	5635	-0.33540692925453186	-0.403186	No	
+row_14	MUL1	3	null	null	6367	-0.4802720844745636	-0.46584967	Yes	
+row_15	ITCH	12	ITCH	itchy homolog E3 ubiquitin protein ligase (mouse)	6420	-0.49562859535217285	-0.4414737	Yes	
+row_16	EIF2AK2	29	EIF2AK2	eukaryotic translation initiation factor 2-alpha kinase 2	6561	-0.5347068309783936	-0.42581218	Yes	
+row_17	C19orf29	6	C19ORF29	chromosome 19 open reading frame 29	6657	-0.5632824301719666	-0.4026603	Yes	
+row_18	HTRA1	4	HTRA1	HtrA serine peptidase 1	7868	-1.823289394378662	-0.4421336	Yes	
+row_19	IL2RA	4	IL2RA	interleukin 2 receptor, alpha	7905	-7.1531853675842285	2.5366986E-4	Yes	

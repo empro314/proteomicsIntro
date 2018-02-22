@@ -1,0 +1,42 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PCDHB8	4	PCDHB8	protocadherin beta 8	47	1.7625634670257568	0.050099332	No	
+row_1	PCDHB16	6	PCDHB16	protocadherin beta 16	150	1.0198386907577515	0.06957862	No	
+row_2	CDH13	27	CDH13	cadherin 13, H-cadherin (heart)	152	1.0175529718399048	0.10182362	No	
+row_3	CADM4	6	null	null	308	0.7915167212486267	0.10730214	No	
+row_4	PCDHGA7	1	PCDHGA7	protocadherin gamma subfamily A, 7	1177	0.3519018888473511	0.008163126	No	
+row_5	NPTN	13	NPTN	neuroplastin	2163	0.1488971710205078	-0.11230647	No	
+row_6	PCDHB13	1	PCDHB13	protocadherin beta 13	2534	0.09349041432142258	-0.1563641	No	
+row_7	PVRL3	9	PVRL3	poliovirus receptor-related 3	2785	0.05353687331080437	-0.18643922	No	
+row_8	DSC2	4	DSC2	desmocollin 2	3020	0.01949751190841198	-0.21556343	No	
+row_9	CDH4	5	CDH4	cadherin 4, type 1, R-cadherin (retinal)	3040	0.016459070146083832	-0.21745495	No	
+row_10	PCDHGC3	19	PCDHGC3	protocadherin gamma subfamily C, 3	3139	0.0018032450461760163	-0.22985469	No	
+row_11	FAT4	61	FAT4	FAT tumor suppressor homolog 4 (Drosophila)	3332	-0.0217440128326416	-0.25356868	No	
+row_12	PVRL1	1	PVRL1	poliovirus receptor-related 1 (herpesvirus entry mediator C; nectin)	3718	-0.07434554398059845	-0.30014208	No	
+row_13	PVR	11	PVR	poliovirus receptor	3740	-0.07813470810651779	-0.3003257	No	
+row_14	CELSR2	6	CELSR2	cadherin, EGF LAG seven-pass G-type receptor 2 (flamingo homolog, Drosophila)	3823	-0.08978091180324554	-0.30789274	No	
+row_15	PTPRM	8	PTPRM	protein tyrosine phosphatase, receptor type, M	4125	-0.12574763596057892	-0.3421533	No	
+row_16	PCDHGB1	3	PCDHGB1	protocadherin gamma subfamily B, 1	4286	-0.14830540120601654	-0.3577733	No	
+row_17	CLSTN1	13	CLSTN1	calsyntenin 1	4543	-0.18067961931228638	-0.38456622	No	
+row_18	PVRL2	4	PVRL2	poliovirus receptor-related 2 (herpesvirus entry mediator B)	4790	-0.21208778023719788	-0.4090888	No	
+row_19	ODZ3	36	ODZ3	odz, odd Oz/ten-m homolog 3 (Drosophila)	4898	-0.22754304111003876	-0.4154509	No	
+row_20	CDH2	51	CDH2	cadherin 2, type 1, N-cadherin (neuronal)	4997	-0.23876120150089264	-0.42031214	No	
+row_21	DSG2	52	DSG2	desmoglein 2	5176	-0.25965192914009094	-0.4346778	No	
+row_22	DSC3	5	DSC3	desmocollin 3	5891	-0.3805709183216095	-0.5133293	No	
+row_23	FAT1	56	null	null	5903	-0.3815014660358429	-0.5025906	No	
+row_24	PCDHGB7	9	PCDHGB7	protocadherin gamma subfamily B, 7	5943	-0.38898929953575134	-0.49517283	No	
+row_25	AMIGO2	11	AMIGO2	adhesion molecule with Ig-like domain 2	6695	-0.57464998960495	-0.5723531	Yes	
+row_26	CDH10	3	CDH10	cadherin 10, type 2 (T2-cadherin)	6758	-0.5988671183586121	-0.56118196	Yes	
+row_27	SMAGP	2	null	null	6887	-0.6539607644081116	-0.5566476	Yes	
+row_28	PCDH7	17	PCDH7	BH-protocadherin (brain-heart)	6898	-0.658511757850647	-0.536969	Yes	
+row_29	PCDHGA11	12	PCDHGA11	protocadherin gamma subfamily A, 11	6910	-0.6678053736686707	-0.5171219	Yes	
+row_30	ITGB1	131	ITGB1	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	6934	-0.6761226058006287	-0.49853554	Yes	
+row_31	CELSR1	23	CELSR1	cadherin, EGF LAG seven-pass G-type receptor 1 (flamingo homolog, Drosophila)	7125	-0.7852024435997009	-0.4977069	Yes	
+row_32	PIK3CB	1	PIK3CB	phosphoinositide-3-kinase, catalytic, beta polypeptide	7382	-0.977338433265686	-0.49915513	Yes	
+row_33	PCDH1	2	PCDH1	protocadherin 1 (cadherin-like 1)	7419	-1.0137310028076172	-0.4714807	Yes	
+row_34	CLSTN2	7	CLSTN2	calsyntenin 2	7545	-1.1132150888442993	-0.45195436	Yes	
+row_35	CDH6	17	CDH6	cadherin 6, type 2, K-cadherin (fetal kidney)	7652	-1.212352991104126	-0.42685893	Yes	
+row_36	ROBO1	20	ROBO1	roundabout, axon guidance receptor, homolog 1 (Drosophila)	7690	-1.2575565576553345	-0.3915546	Yes	
+row_37	PCDHB12	1	PCDHB12	protocadherin beta 12	7834	-1.5460213422775269	-0.36054716	Yes	
+row_38	PCDH10	1	PCDH10	protocadherin 10	7860	-1.680816888809204	-0.31025198	Yes	
+row_39	CLSTN3	2	CLSTN3	calsyntenin 3	7880	-1.9580490589141846	-0.25037438	Yes	
+row_40	CADM1	3	null	null	7906	-7.973903179168701	1.2710593E-4	Yes	

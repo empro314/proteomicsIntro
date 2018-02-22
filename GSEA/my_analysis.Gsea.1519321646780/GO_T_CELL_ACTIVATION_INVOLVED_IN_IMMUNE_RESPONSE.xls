@@ -1,0 +1,16 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ICAM1	2	ICAM1	intercellular adhesion molecule 1 (CD54), human rhinovirus receptor	6	3.752307653427124	0.3262748	Yes	
+row_1	APBB1IP	4	APBB1IP	amyloid beta (A4) precursor protein-binding, family B, member 1 interacting protein	19	2.6192991733551025	0.55304134	Yes	
+row_2	HMGB1	23	HMGB1	high-mobility group box 1	110	1.1518224477767944	0.64202666	Yes	
+row_3	RELB	1	RELB	v-rel reticuloendotheliosis viral oncogene homolog B, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3 (avian)	1282	0.3223320543766022	0.52176046	No	
+row_4	EIF2AK4	18	EIF2AK4	eukaryotic translation initiation factor 2 alpha kinase 4	2012	0.17349451780319214	0.4445212	No	
+row_5	STAT6	24	STAT6	signal transducer and activator of transcription 6, interleukin-4 induced	2415	0.11131216585636139	0.40329146	No	
+row_6	RPS6	24	RPS6	ribosomal protein S6	2817	0.04882776737213135	0.3567426	No	
+row_7	BCL3	2	BCL3	B-cell CLL/lymphoma 3	3525	-0.049171388149261475	0.2714551	No	
+row_8	PSEN1	5	PSEN1	presenilin 1 (Alzheimer disease 3)	4184	-0.13399960100650787	0.19976895	No	
+row_9	RAB27A	7	RAB27A	RAB27A, member RAS oncogene family	4686	-0.19787532091140747	0.15354094	No	
+row_10	RC3H2	5	null	null	5596	-0.3299236595630646	0.067130335	No	
+row_11	FOXP1	8	FOXP1	forkhead box P1	6232	-0.4454762041568756	0.025505096	No	
+row_12	TSC1	14	TSC1	tuberous sclerosis 1	6346	-0.47591671347618103	0.052667465	No	
+row_13	ATP7A	5	ATP7A	ATPase, Cu++ transporting, alpha polypeptide (Menkes syndrome)	6911	-0.6679583191871643	0.03942812	No	
+row_14	RC3H1	5	RC3H1	ring finger and CCCH-type zinc finger domains 1	7396	-0.9940019249916077	0.064740896	No	

@@ -1,0 +1,25 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BID	8	BID	BH3 interacting domain death agonist	552	0.5955663323402405	-0.010324617	No	
+row_1	HDAC7	11	null	null	1781	0.21578463912010193	-0.1444561	No	
+row_2	CASP3	19	CASP3	caspase 3, apoptosis-related cysteine peptidase	1987	0.17761613428592682	-0.15265657	No	
+row_3	ATM	7	ATM	ataxia telangiectasia mutated (includes complementation groups A, C and D)	2092	0.16028854250907898	-0.14978293	No	
+row_4	FADD	9	FADD	Fas (TNFRSF6)-associated via death domain	2237	0.13726188242435455	-0.1542907	No	
+row_5	BCL2L1	4	BCL2L1	BCL2-like 1	2450	0.10612374544143677	-0.17054437	No	
+row_6	RB1	23	RB1	retinoblastoma 1 (including osteosarcoma)	2658	0.07405977696180344	-0.18937744	No	
+row_7	APAF1	10	APAF1	apoptotic peptidase activating factor	2974	0.026471462100744247	-0.22667867	No	
+row_8	BCL2	1	BCL2	B-cell CLL/lymphoma 2	2994	0.023742415010929108	-0.22670904	No	
+row_9	FAS	14	FAS	Fas (TNF receptor superfamily, member 6)	3173	-0.0014876351924613118	-0.24913731	No	
+row_10	POLB	13	POLB	polymerase (DNA directed), beta	3280	-0.015199943445622921	-0.26105884	No	
+row_11	NAE1	16	null	null	3829	-0.09068141132593155	-0.32147816	No	
+row_12	BAX	18	BAX	BCL2-associated X protein	3976	-0.107977956533432	-0.3291746	No	
+row_13	PSEN1	5	PSEN1	presenilin 1 (Alzheimer disease 3)	4184	-0.13399960100650787	-0.34200022	No	
+row_14	DIABLO	17	DIABLO	diablo homolog (Drosophila)	4823	-0.2173837572336197	-0.4011363	No	
+row_15	LIG4	5	LIG4	ligase IV, DNA, ATP-dependent	5383	-0.29029691219329834	-0.4429444	No	
+row_16	PIGT	15	PIGT	phosphatidylinositol glycan anchor biosynthesis, class T	5577	-0.32633712887763977	-0.43471727	No	
+row_17	AIFM1	36	null	null	5670	-0.34031540155410767	-0.41227835	No	
+row_18	CDK5	14	CDK5	cyclin-dependent kinase 5	6159	-0.4282153844833374	-0.43125802	No	
+row_19	FAM162A	13	null	null	6928	-0.6738910675048828	-0.4611298	Yes	
+row_20	ATN1	7	ATN1	atrophin 1	7023	-0.7191513776779175	-0.40097576	Yes	
+row_21	APP	38	APP	amyloid beta (A4) precursor protein (peptidase nexin-II, Alzheimer disease)	7103	-0.7666265368461609	-0.33416095	Yes	
+row_22	MAX	7	MAX	MYC associated factor X	7804	-1.4699301719665527	-0.27562472	Yes	
+row_23	GAPDH	295	GAPDH	glyceraldehyde-3-phosphate dehydrogenase	7900	-2.8791470527648926	8.879228E-4	Yes	

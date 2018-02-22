@@ -1,0 +1,33 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HLA-E	1	HLA-E	major histocompatibility complex, class I, E	165	0.9879697561264038	0.029986072	No	
+row_1	B2M	7	B2M	beta-2-microglobulin	384	0.7111106514930725	0.038969085	No	
+row_2	IL4R	2	IL4R	interleukin 4 receptor	392	0.7061353325843811	0.07448584	No	
+row_3	MAP3K7	16	MAP3K7	mitogen-activated protein kinase kinase kinase 7	738	0.5011807680130005	0.056520764	No	
+row_4	LAMP1	17	LAMP1	lysosomal-associated membrane protein 1	1244	0.33308690786361694	0.009574557	No	
+row_5	TRAF2	5	TRAF2	TNF receptor-associated factor 2	1325	0.3148421049118042	0.015649123	No	
+row_6	STAT5B	7	STAT5B	signal transducer and activator of transcription 5B	1510	0.2696413993835449	0.0061886483	No	
+row_7	MALT1	1	MALT1	mucosa associated lymphoid tissue lymphoma translocation gene 1	1705	0.22797466814517975	-0.006689678	No	
+row_8	HLA-A	32	HLA-A	major histocompatibility complex, class I, A	2021	0.1724107414484024	-0.03779579	No	
+row_9	FADD	9	FADD	Fas (TNFRSF6)-associated via death domain	2237	0.13726188242435455	-0.05801723	No	
+row_10	STAT6	24	STAT6	signal transducer and activator of transcription 6, interleukin-4 induced	2415	0.11131216585636139	-0.07475176	No	
+row_11	WHSC1	11	WHSC1	Wolf-Hirschhorn syndrome candidate 1	2561	0.08914155513048172	-0.08856633	No	
+row_12	AP1G1	23	AP1G1	adaptor-related protein complex 1, gamma 1 subunit	2750	0.05791432410478592	-0.10945049	No	
+row_13	TRAF6	9	TRAF6	TNF receptor-associated factor 6	3023	0.019398951902985573	-0.14298566	No	
+row_14	STX4	11	STX4	syntaxin 4	3378	-0.0287634190171957	-0.1864494	No	
+row_15	PVR	11	PVR	poliovirus receptor	3740	-0.07813470810651779	-0.22825654	No	
+row_16	EXOSC3	10	EXOSC3	exosome component 3	3883	-0.09667132794857025	-0.241302	No	
+row_17	GAB2	4	GAB2	GRB2-associated binding protein 2	4128	-0.12585705518722534	-0.2657935	No	
+row_18	HSPD1	255	HSPD1	heat shock 60kDa protein 1 (chaperonin)	4233	-0.14140181243419647	-0.27170807	No	
+row_19	VAMP7	11	null	null	4293	-0.14936137199401855	-0.2714987	No	
+row_20	ZBTB1	3	ZBTB1	zinc finger and BTB domain containing 1	4570	-0.1842171549797058	-0.29704437	No	
+row_21	STX7	13	STX7	syntaxin 7	4741	-0.2060963213443756	-0.30800343	No	
+row_22	PVRL2	4	PVRL2	poliovirus receptor-related 2 (herpesvirus entry mediator B)	4790	-0.21208778023719788	-0.30316347	No	
+row_23	C3	1	C3	complement component 3	5111	-0.2525857388973236	-0.33077094	No	
+row_24	HLA-B	1	HLA-B	major histocompatibility complex, class I, B	5209	-0.2644627094268799	-0.3294522	No	
+row_25	MSH6	46	MSH6	mutS homolog 6 (E. coli)	5653	-0.33775216341018677	-0.36828583	No	
+row_26	SNX4	13	SNX4	sorting nexin 4	6283	-0.4569843113422394	-0.42458844	No	
+row_27	TGFB1	8	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	6675	-0.5690289735794067	-0.44489604	Yes	
+row_28	UNG	4	UNG	uracil-DNA glycosylase	6821	-0.6230292916297913	-0.43118548	Yes	
+row_29	PAXIP1	4	PAXIP1	PAX interacting (with transcription-activation domain) protein 1	6992	-0.7016986608505249	-0.41659325	Yes	
+row_30	IL1B	13	IL1B	interleukin 1, beta	7891	-2.354959011077881	-0.40919822	Yes	
+row_31	CADM1	3	null	null	7906	-7.973903179168701	1.2697482E-4	Yes	
