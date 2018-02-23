@@ -1,0 +1,15 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FOXO3	8	null	null	769	0.4935823976993561	0.020605717	Yes	
+row_1	IKBKG	25	IKBKG	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma	789	0.48548510670661926	0.13428414	Yes	
+row_2	YWHAH	41	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, eta polypeptide	809	0.47662368416786194	0.24584371	Yes	
+row_3	NFKB1	20	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	999	0.40775132179260254	0.3193997	Yes	
+row_4	NFKBIA	2	NFKBIA	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha	1146	0.3647410571575165	0.38811862	Yes	
+row_5	RELA	19	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	1290	0.32634803652763367	0.44803733	Yes	
+row_6	BAD	10	BAD	BCL2-antagonist of cell death	1689	0.23747144639492035	0.45440155	Yes	
+row_7	PDPK1	12	PDPK1	3-phosphoinositide dependent protein kinase-1	1748	0.22574494779109955	0.50103253	Yes	
+row_8	HSP90AA1	203	HSP90AA1	heat shock protein 90kDa alpha (cytosolic), class A member 1	2733	0.06746526807546616	0.39251265	No	
+row_9	PIK3CA	1	PIK3CA	phosphoinositide-3-kinase, catalytic, alpha polypeptide	2862	0.04649175703525543	0.38741454	No	
+row_10	IKBKB	28	IKBKB	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	3642	-0.06015733629465103	0.30311635	No	
+row_11	CHUK	9	CHUK	conserved helix-loop-helix ubiquitous kinase	3734	-0.07102616876363754	0.30857182	No	
+row_12	AKT1	12	AKT1	v-akt murine thymoma viral oncogene homolog 1	5596	-0.32254108786582947	0.14994657	No	
+row_13	PIK3R1	4	PIK3R1	phosphoinositide-3-kinase, regulatory subunit 1 (p85 alpha)	6794	-0.5967109799385071	0.14099318	No	

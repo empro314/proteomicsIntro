@@ -1,0 +1,15 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NQO1	29	NQO1	NAD(P)H dehydrogenase, quinone 1	41	1.8457469940185547	0.34245008	Yes	
+row_1	FHL2	44	FHL2	four and a half LIM domains 2	69	1.4124852418899536	0.60506946	Yes	
+row_2	CDKN1A	8	CDKN1A	cyclin-dependent kinase inhibitor 1A (p21, Cip1)	1625	0.25140538811683655	0.45543623	No	
+row_3	HSPA1A	77	HSPA1A	heat shock 70kDa protein 1A	1697	0.23479926586151123	0.49066618	No	
+row_4	ATM	7	ATM	ataxia telangiectasia mutated (includes complementation groups A, C and D)	2118	0.16028854250907898	0.46765134	No	
+row_5	RPA1	33	RPA1	replication protein A1, 70kDa	2485	0.10466825217008591	0.44100115	No	
+row_6	HSP90AA1	203	HSP90AA1	heat shock protein 90kDa alpha (cytosolic), class A member 1	2733	0.06746526807546616	0.42241853	No	
+row_7	NFKBIB	3	NFKBIB	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, beta	3622	-0.05808345228433609	0.320868	No	
+row_8	CSNK1A1	12	CSNK1A1	casein kinase 1, alpha 1	3945	-0.10105286538600922	0.29911068	No	
+row_9	BAX	18	BAX	BCL2-associated X protein	4010	-0.107977956533432	0.31134075	No	
+row_10	MAPK8	8	MAPK8	mitogen-activated protein kinase 8	4750	-0.20127122104167938	0.2556345	No	
+row_11	EP300	9	EP300	E1A binding protein p300	4822	-0.21152842044830322	0.2864814	No	
+row_12	CSNK1D	7	CSNK1D	casein kinase 1, delta	4973	-0.22998946905136108	0.31079784	No	
+row_13	AKT1	12	AKT1	v-akt murine thymoma viral oncogene homolog 1	5596	-0.32254108786582947	0.292754	No	

@@ -1,0 +1,15 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DGKA	26	DGKA	diacylglycerol kinase, alpha 80kDa	824	0.4652527868747711	-0.06349188	No	
+row_1	CASP3	19	CASP3	caspase 3, apoptosis-related cysteine peptidase	2015	0.17761613428592682	-0.19862856	No	
+row_2	CREM	1	CREM	cAMP responsive element modulator	2219	0.1448931246995926	-0.2116096	No	
+row_3	GBP3	3	GBP3	guanylate binding protein 3	2448	0.11034052073955536	-0.23079443	No	
+row_4	POU2F1	5	POU2F1	POU domain, class 2, transcription factor 1	3244	-0.006705006118863821	-0.33091453	No	
+row_5	SLC3A2	53	SLC3A2	solute carrier family 3 (activators of dibasic and neutral amino acid transport), member 2	3449	-0.03514324128627777	-0.35366818	No	
+row_6	JUN	13	JUN	jun oncogene	3913	-0.0963917225599289	-0.40384844	No	
+row_7	CDK4	10	CDK4	cyclin-dependent kinase 4	5246	-0.2628152668476105	-0.54948527	No	
+row_8	PTPN1	30	PTPN1	protein tyrosine phosphatase, non-receptor type 1	5556	-0.31387782096862793	-0.56104213	No	
+row_9	PTPRK	27	PTPRK	protein tyrosine phosphatase, receptor type, K	6065	-0.400620698928833	-0.59018415	No	
+row_10	FOSL1	12	FOSL1	FOS-like antigen 1	6371	-0.47086599469184875	-0.58743656	No	
+row_11	ITCH	12	ITCH	itchy homolog E3 ubiquitin protein ligase (mouse)	6463	-0.49562859535217285	-0.55540335	No	
+row_12	JUNB	6	JUNB	jun B proto-oncogene	7698	-1.24448561668396	-0.6023464	Yes	
+row_13	IL2RA	4	IL2RA	interleukin 2 receptor, alpha	7905	-7.1531853675842285	2.5329535E-4	Yes	

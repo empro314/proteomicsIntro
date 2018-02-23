@@ -1,0 +1,7 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IKBKG	25	IKBKG	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma	789	0.48548510670661926	0.35623166	Yes	
+row_1	UBE2N	24	UBE2N	ubiquitin-conjugating enzyme E2N (UBC13 homolog, yeast)	993	0.40969958901405334	0.71542645	Yes	
+row_2	TRAF6	9	TRAF6	TNF receptor-associated factor 6	3056	0.019398951902985573	0.47270384	No	
+row_3	IRAK1	4	IRAK1	interleukin-1 receptor-associated kinase 1	3344	-0.0187069084495306	0.45395777	No	
+row_4	IKBKB	28	IKBKB	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	3642	-0.06015733629465103	0.47288603	No	
+row_5	CHUK	9	CHUK	conserved helix-loop-helix ubiquitous kinase	3734	-0.07102616876363754	0.5280941	No	

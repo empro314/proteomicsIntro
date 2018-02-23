@@ -1,0 +1,20 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CASP7	8	CASP7	caspase 7, apoptosis-related cysteine peptidase	427	0.6911333799362183	0.10317729	Yes	
+row_1	BID	8	BID	BH3 interacting domain death agonist	565	0.5955663323402405	0.22136338	Yes	
+row_2	PXN	35	PXN	paxillin	1042	0.3946506977081299	0.25084946	Yes	
+row_3	CASP6	12	CASP6	caspase 6, apoptosis-related cysteine peptidase	1219	0.34478938579559326	0.30701464	Yes	
+row_4	TLN1	281	TLN1	talin 1	1511	0.2750632166862488	0.33273277	Yes	
+row_5	BAD	10	BAD	BCL2-antagonist of cell death	1689	0.23747144639492035	0.36434543	Yes	
+row_6	CASP3	19	CASP3	caspase 3, apoptosis-related cysteine peptidase	2015	0.17761613428592682	0.3635746	Yes	
+row_7	ATM	7	ATM	ataxia telangiectasia mutated (includes complementation groups A, C and D)	2118	0.16028854250907898	0.3871272	Yes	
+row_8	PRKCA	23	PRKCA	protein kinase C, alpha	2164	0.15264014899730682	0.41616422	Yes	
+row_9	BCL2L1	4	BCL2L1	BCL2-like 1	2478	0.10612374544143677	0.4006427	No	
+row_10	STAT1	49	STAT1	signal transducer and activator of transcription 1, 91kDa	2697	0.07202418148517609	0.38940212	No	
+row_11	PARP1	60	PARP1	poly (ADP-ribose) polymerase family, member 1	3004	0.027450919151306152	0.35686183	No	
+row_12	APAF1	10	APAF1	apoptotic peptidase activating factor	3007	0.026471462100744247	0.36263326	No	
+row_13	BCL2	1	BCL2	B-cell CLL/lymphoma 2	3027	0.023742415010929108	0.36562866	No	
+row_14	BAX	18	BAX	BCL2-associated X protein	4010	-0.107977956533432	0.26572755	No	
+row_15	EIF2S1	49	EIF2S1	eukaryotic translation initiation factor 2, subunit 1 alpha, 35kDa	4134	-0.12132067233324051	0.27774903	No	
+row_16	PTK2	32	PTK2	PTK2 protein tyrosine kinase 2	4400	-0.15766726434230804	0.28004333	No	
+row_17	AKT1	12	AKT1	v-akt murine thymoma viral oncogene homolog 1	5596	-0.32254108786582947	0.20197757	No	
+row_18	CYCS	20	CYCS	cytochrome c, somatic	6060	-0.39909660816192627	0.23412341	No	

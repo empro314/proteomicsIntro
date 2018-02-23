@@ -1,0 +1,7 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CBL	25	CBL	Cas-Br-M (murine) ecotropic retroviral transforming sequence	1673	0.2398366630077362	-0.11589925	No	
+row_1	STAT1	49	STAT1	signal transducer and activator of transcription 1, 91kDa	2697	0.07202418148517609	-0.21658511	No	
+row_2	STAT3	20	STAT3	signal transducer and activator of transcription 3 (acute-phase response factor)	3086	0.01438905205577612	-0.2599379	No	
+row_3	TYK2	2	TYK2	tyrosine kinase 2	6875	-0.6301159262657166	-0.48756695	Yes	
+row_4	IL6ST	23	IL6ST	interleukin 6 signal transducer (gp130, oncostatin M receptor)	6897	-0.6373172402381897	-0.23560415	Yes	
+row_5	JAK1	9	JAK1	Janus kinase 1 (a protein tyrosine kinase)	7325	-0.90932697057724	0.073652275	Yes	

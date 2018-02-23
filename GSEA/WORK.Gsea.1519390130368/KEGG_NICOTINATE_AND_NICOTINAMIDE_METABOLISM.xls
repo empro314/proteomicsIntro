@@ -1,0 +1,15 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NT5C	15	NT5C	5', 3'-nucleotidase, cytosolic	516	0.6259693503379822	0.13703737	Yes	
+row_1	NUDT12	3	NUDT12	nudix (nucleoside diphosphate linked moiety X)-type motif 12	787	0.48623839020729065	0.26005647	Yes	
+row_2	QPRT	1	QPRT	quinolinate phosphoribosyltransferase (nicotinate-nucleotide pyrophosphorylase (carboxylating))	1278	0.3302183151245117	0.30475813	Yes	
+row_3	NAMPT	34	null	null	1587	0.2600393295288086	0.34982333	Yes	
+row_4	NMNAT1	5	NMNAT1	nicotinamide nucleotide adenylyltransferase 1	1769	0.22294694185256958	0.3989831	Yes	
+row_5	NADK	1	NADK	NAD kinase	1858	0.20586007833480835	0.45439902	Yes	
+row_6	NNMT	8	NNMT	nicotinamide N-methyltransferase	2231	0.1433437466621399	0.45362398	No	
+row_7	NT5E	82	NT5E	5'-nucleotidase, ecto (CD73)	2703	0.07170127332210541	0.41714257	No	
+row_8	NT5C2	12	NT5C2	5'-nucleotidase, cytosolic II	2933	0.036880649626255035	0.40005833	No	
+row_9	ENPP1	14	ENPP1	ectonucleotide pyrophosphatase/phosphodiesterase 1	3133	0.007562596816569567	0.37729463	No	
+row_10	NNT	57	NNT	nicotinamide nucleotide transhydrogenase	3722	-0.06917829066514969	0.3251761	No	
+row_11	PNP	21	null	null	3807	-0.08264660090208054	0.34125838	No	
+row_12	NADSYN1	4	NADSYN1	NAD synthetase 1	4312	-0.14717981219291687	0.32500213	No	
+row_13	NT5C3	7	NT5C3	5'-nucleotidase, cytosolic III	6076	-0.4029155671596527	0.2319483	No	

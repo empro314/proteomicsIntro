@@ -1,0 +1,15 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	POLR2K	1	POLR2K	polymerase (RNA) II (DNA directed) polypeptide K, 7.0kDa	134	1.0757046937942505	0.20907804	Yes	
+row_1	POLR2J	6	POLR2J	polymerase (RNA) II (DNA directed) polypeptide J, 13.3kDa	563	0.5964182615280151	0.28019342	Yes	
+row_2	POLR2I	5	POLR2I	polymerase (RNA) II (DNA directed) polypeptide I, 14.5kDa	949	0.42195460200309753	0.32009345	Yes	
+row_3	POLR2D	7	POLR2D	polymerase (RNA) II (DNA directed) polypeptide D	1006	0.4052664339542389	0.39816383	Yes	
+row_4	POLR2C	13	POLR2C	polymerase (RNA) II (DNA directed) polypeptide C, 33kDa	1084	0.38470810651779175	0.46925372	Yes	
+row_5	POLR2F	8	POLR2F	polymerase (RNA) II (DNA directed) polypeptide F	1940	0.1914215087890625	0.4011697	No	
+row_6	POLR2G	9	POLR2G	polymerase (RNA) II (DNA directed) polypeptide G	2381	0.11804665625095367	0.37023795	No	
+row_7	POLR2H	9	POLR2H	polymerase (RNA) II (DNA directed) polypeptide H	3174	0.001597886672243476	0.27024436	No	
+row_8	GTF2F2	14	GTF2F2	general transcription factor IIF, polypeptide 2, 30kDa	3851	-0.08892922103404999	0.20329766	No	
+row_9	POLR2E	10	POLR2E	polymerase (RNA) II (DNA directed) polypeptide E, 25kDa	3980	-0.10528813302516937	0.20920849	No	
+row_10	POLR2A	40	POLR2A	polymerase (RNA) II (DNA directed) polypeptide A, 220kDa	4098	-0.1168198511004448	0.2189361	No	
+row_11	POLR2B	28	POLR2B	polymerase (RNA) II (DNA directed) polypeptide B, 140kDa	4548	-0.17710858583450317	0.19927578	No	
+row_12	POLR2L	1	POLR2L	polymerase (RNA) II (DNA directed) polypeptide L, 7.6kDa	5070	-0.2420581877231598	0.18414338	No	
+row_13	GTF2F1	21	GTF2F1	general transcription factor IIF, polypeptide 1, 74kDa	7229	-0.8333173394203186	0.08588789	No	

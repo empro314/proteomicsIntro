@@ -1,0 +1,10 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GALNT1	21	GALNT1	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 1 (GalNAc-T1)	4466	-0.16598083078861237	-0.53881824	No	
+row_1	GALNT2	42	GALNT2	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 2 (GalNAc-T2)	6408	-0.480100154876709	-0.70769227	Yes	
+row_2	C1GALT1	12	C1GALT1	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1	6656	-0.5504536032676697	-0.65084684	Yes	
+row_3	C1GALT1C1	8	C1GALT1C1	C1GALT1-specific chaperone 1	6851	-0.6208544969558716	-0.5760221	Yes	
+row_4	B4GALT5	2	B4GALT5	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 5	7051	-0.7163282632827759	-0.48654708	Yes	
+row_5	GALNTL1	6	GALNTL1	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase-like 1	7186	-0.7959332466125488	-0.37610024	Yes	
+row_6	GALNT7	27	GALNT7	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 7 (GalNAc-T7)	7333	-0.9154898524284363	-0.24803427	Yes	
+row_7	GALNT4	3	GALNT4	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 4 (GalNAc-T4)	7387	-0.967255175113678	-0.09990819	Yes	
+row_8	GALNT10	15	GALNT10	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 10 (GalNAc-T10)	7473	-1.0345786809921265	0.054943725	Yes	

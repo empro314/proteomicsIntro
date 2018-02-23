@@ -1,0 +1,24 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	POLR2K	1	POLR2K	polymerase (RNA) II (DNA directed) polypeptide K, 7.0kDa	134	1.0757046937942505	0.12742974	Yes	
+row_1	POLR2J	6	POLR2J	polymerase (RNA) II (DNA directed) polypeptide J, 13.3kDa	563	0.5964182615280151	0.15322454	Yes	
+row_2	SUPT4H1	6	SUPT4H1	suppressor of Ty 4 homolog 1 (S. cerevisiae)	584	0.5885735154151917	0.22970992	Yes	
+row_3	POLR2I	5	POLR2I	polymerase (RNA) II (DNA directed) polypeptide I, 14.5kDa	949	0.42195460200309753	0.24019791	Yes	
+row_4	POLR2D	7	POLR2D	polymerase (RNA) II (DNA directed) polypeptide D	1006	0.4052664339542389	0.28750688	Yes	
+row_5	POLR2C	13	POLR2C	polymerase (RNA) II (DNA directed) polypeptide C, 33kDa	1084	0.38470810651779175	0.32939237	Yes	
+row_6	NCBP2	5	NCBP2	nuclear cap binding protein subunit 2, 20kDa	1767	0.22306065261363983	0.27284715	No	
+row_7	POLR2F	8	POLR2F	polymerase (RNA) II (DNA directed) polypeptide F	1940	0.1914215087890625	0.27673382	No	
+row_8	POLR2G	9	POLR2G	polymerase (RNA) II (DNA directed) polypeptide G	2381	0.11804665625095367	0.23678058	No	
+row_9	COBRA1	12	COBRA1	-	2712	0.07023287564516068	0.20435843	No	
+row_10	POLR2H	9	POLR2H	polymerase (RNA) II (DNA directed) polypeptide H	3174	0.001597886672243476	0.14610752	No	
+row_11	NCBP1	21	NCBP1	nuclear cap binding protein subunit 1, 80kDa	3211	-0.002071784343570471	0.14182004	No	
+row_12	GTF2F2	14	GTF2F2	general transcription factor IIF, polypeptide 2, 30kDa	3851	-0.08892922103404999	0.07271973	No	
+row_13	POLR2E	10	POLR2E	polymerase (RNA) II (DNA directed) polypeptide E, 25kDa	3980	-0.10528813302516937	0.070622355	No	
+row_14	POLR2A	40	POLR2A	polymerase (RNA) II (DNA directed) polypeptide A, 220kDa	4098	-0.1168198511004448	0.07146828	No	
+row_15	TH1L	8	TH1L	TH1-like (Drosophila)	4139	-0.12261150777339935	0.08285717	No	
+row_16	POLR2B	28	POLR2B	polymerase (RNA) II (DNA directed) polypeptide B, 140kDa	4548	-0.17710858583450317	0.054891936	No	
+row_17	CTDP1	5	CTDP1	CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) phosphatase, subunit 1	4713	-0.19589535892009735	0.060393848	No	
+row_18	POLR2L	1	POLR2L	polymerase (RNA) II (DNA directed) polypeptide L, 7.6kDa	5070	-0.2420581877231598	0.047743548	No	
+row_19	WHSC2	18	WHSC2	Wolf-Hirschhorn syndrome candidate 2	5724	-0.3420740067958832	0.010854909	No	
+row_20	RDBP	24	RDBP	RD RNA binding protein	6011	-0.3911842703819275	0.027103882	No	
+row_21	SUPT5H	42	SUPT5H	suppressor of Ty 5 homolog (S. cerevisiae)	7119	-0.7538952231407166	-0.012071346	No	
+row_22	GTF2F1	21	GTF2F1	general transcription factor IIF, polypeptide 1, 74kDa	7229	-0.8333173394203186	0.08598607	No	

@@ -1,0 +1,29 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AKR1B10	3	AKR1B10	aldo-keto reductase family 1, member B10 (aldose reductase)	2	4.344516754150391	0.38302413	Yes	
+row_1	AKR1B1	23	AKR1B1	aldo-keto reductase family 1, member B1 (aldose reductase)	57	1.5817981958389282	0.51571923	Yes	
+row_2	FUK	1	FUK	fucokinase	825	0.4651939272880554	0.45942414	No	
+row_3	ALDOA	120	ALDOA	aldolase A, fructose-bisphosphate	1104	0.3780922591686249	0.45750064	No	
+row_4	PHPT1	14	PHPT1	phosphohistidine phosphatase 1	1220	0.34470170736312866	0.4733167	No	
+row_5	PMM2	19	PMM2	phosphomannomutase 2	1619	0.25293850898742676	0.44512358	No	
+row_6	ALDOC	4	ALDOC	aldolase C, fructose-bisphosphate	2165	0.1526324301958084	0.38942656	No	
+row_7	PFKFB2	8	PFKFB2	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 2	2331	0.1257038563489914	0.3795772	No	
+row_8	PFKP	49	PFKP	phosphofructokinase, platelet	2442	0.1113961711525917	0.37544528	No	
+row_9	GMPPB	7	GMPPB	GDP-mannose pyrophosphorylase B	2619	0.08497580885887146	0.3606069	No	
+row_10	MPI	18	MPI	mannose phosphate isomerase	2668	0.0775388553738594	0.3613561	No	
+row_11	MTMR6	12	MTMR6	myotubularin related protein 6	2674	0.07656462490558624	0.3674762	No	
+row_12	KHK	1	KHK	ketohexokinase (fructokinase)	2817	0.05317533761262894	0.35414708	No	
+row_13	HK1	69	HK1	hexokinase 1	3099	0.012546048499643803	0.319594	No	
+row_14	TSTA3	10	TSTA3	tissue specific transplantation antigen P35B	3264	-0.009500092826783657	0.29961994	No	
+row_15	GMDS	15	GMDS	GDP-mannose 4,6-dehydratase	3489	-0.04011305049061775	0.27473235	No	
+row_16	MTMR1	9	MTMR1	myotubularin related protein 1	3626	-0.058668289333581924	0.26264924	No	
+row_17	PFKM	32	PFKM	phosphofructokinase, muscle	3633	-0.0593072883784771	0.26711997	No	
+row_18	TPI1	112	TPI1	triosephosphate isomerase 1	4756	-0.20201338827610016	0.14255603	No	
+row_19	GMPPA	14	GMPPA	GDP-mannose pyrophosphorylase A	4851	-0.21502575278282166	0.1495969	No	
+row_20	PFKFB3	2	PFKFB3	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 3	4982	-0.23153671622276306	0.15352584	No	
+row_21	HK2	44	HK2	hexokinase 2	5027	-0.23706142604351044	0.1688559	No	
+row_22	SORD	7	SORD	sorbitol dehydrogenase	5189	-0.2568493187427521	0.17108396	No	
+row_23	PMM1	6	PMM1	phosphomannomutase 1	5388	-0.28391706943511963	0.17100452	No	
+row_24	FPGT	2	FPGT	fucose-1-phosphate guanylyltransferase	5443	-0.29352477192878723	0.1900468	No	
+row_25	PFKL	37	PFKL	phosphofructokinase, liver	5886	-0.3726986050605774	0.1668353	No	
+row_26	PFKFB4	8	PFKFB4	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 4	6341	-0.4599517583847046	0.14979853	No	
+row_27	MTMR2	3	MTMR2	myotubularin related protein 2	6666	-0.5532176494598389	0.15748723	No	

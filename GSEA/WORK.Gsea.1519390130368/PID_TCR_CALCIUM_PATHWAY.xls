@@ -1,0 +1,16 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FKBP1A	12	FKBP1A	FK506 binding protein 1A, 12kDa	157	1.0187885761260986	0.05765554	No	
+row_1	RCAN1	1	null	null	755	0.4993698298931122	0.02002917	No	
+row_2	CHP	17	CHP	-	1175	0.35483884811401367	-0.0060467604	No	
+row_3	CREM	1	CREM	cAMP responsive element modulator	2219	0.1448931246995926	-0.1271604	No	
+row_4	CABIN1	1	CABIN1	-	2434	0.11210427433252335	-0.14574005	No	
+row_5	POU2F1	5	POU2F1	POU domain, class 2, transcription factor 1	3244	-0.006705006118863821	-0.24772558	No	
+row_6	PPP3CA	15	PPP3CA	protein phosphatase 3 (formerly 2B), catalytic subunit, alpha isoform (calcineurin A alpha)	3318	-0.016158077865839005	-0.25574437	No	
+row_7	PPP3R1	12	PPP3R1	protein phosphatase 3 (formerly 2B), regulatory subunit B, 19kDa, alpha isoform (calcineurin B, type I)	3421	-0.031127184629440308	-0.26629794	No	
+row_8	JUN	13	JUN	jun oncogene	3913	-0.0963917225599289	-0.32116795	No	
+row_9	PPP3CB	15	PPP3CB	protein phosphatase 3 (formerly 2B), catalytic subunit, beta isoform (calcineurin A beta)	4688	-0.19249087572097778	-0.4045778	No	
+row_10	PRKACA	12	PRKACA	protein kinase, cAMP-dependent, catalytic, alpha	5358	-0.2787505090236664	-0.46811894	No	
+row_11	FOSL1	12	FOSL1	FOS-like antigen 1	6371	-0.47086599469184875	-0.5604931	No	
+row_12	JUNB	6	JUNB	jun B proto-oncogene	7698	-1.24448561668396	-0.63376427	Yes	
+row_13	AKAP5	3	AKAP5	A kinase (PRKA) anchor protein 5	7829	-1.51760733127594	-0.53471965	Yes	
+row_14	IL2RA	4	IL2RA	interleukin 2 receptor, alpha	7905	-7.1531853675842285	2.53481E-4	Yes	

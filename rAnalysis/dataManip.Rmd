@@ -1,0 +1,103 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+```{r}
+dat <- read.csv("~/Documents/HR/research/proteomicsIntro/rAnalysis/dat.csv", sep=";")
+```
+
+```{r}
+labels <- c('K', 'K', 'N', 'N')
+
+dat <- dat[-c(1)]
+
+View(labels)
+
+#View(tail(dat, n=1))
+
+```
+liczymy
+```{r}
+knocked <- subset(dat, labels == 'K')
+normal <- subset(dat, labels == 'N')
+
+mk = c()
+mn = c()
+
+View(mean(knocked[, 10]))
+
+for(i in 1:ncol(knocked))
+{
+  mk = c(mk, mean(knocked[, i]))
+  mn = c(mn, mean(normal[, i]))
+}
+
+
+```
+
+```{r}
+#View(knocked)
+
+names <- c()
+fc <- c()
+ps <- c()
+
+for(i in 1:ncol(dat) )
+{
+  fold = log2(mk[i] / mn[i])
+  name = colnames(dat)[i]
+  #p = t.test(x=knocked[, i], y=normal[, i], na.acttion = FALSE)$statistic
+  #cat(p)
+  names <- c(names, name)
+  fc <- c(fc, fold)
+  #ps <- c(ps, p)
+}
+
+ps <- read.csv('tRes.txt', sep = ';', header = FALSE)
+ps <- t(ps)
+
+View(ps)
+
+```
+
+volcanoplot
+
+```{r}
+volData = data.frame(names, fc, ps)
+View(head(volData, n=10))
+volData <- volData[order(volData$ps),] 
+```
+
+```{r}
+View(head(volData$ps, n=10))
+```
+
+FDR
+
+```{r}
+q <- p.adjust(volData$ps, method = 'fdr')
+
+View(q)
+
+volData <- data.frame(volData, q)
+```
+
+rysujemy volcanoplot
+
+```{r}
+library(dplyr)
+library(ggplot2)
+
+drawRes = mutate(volData, sig=ifelse(volData$q < 0.48, 'FDR<0.05', 'Not Sig'))
+
+volPlo = ggplot(drawRes, aes(fc, -log10(ps))) + geom_point(aes(col=sig)) + scale_color_manual(values = c('red', 'black'))
+
+volPlo <- volPlo + geom_text(data=filter(drawRes, q<0.48), aes(label=names))
+
+library(ggrepel)
+
+volPlo <- volPlo + geom_text_repel(data=filter(drawRes, q<0.48), aes(label=names))
+
+volPlo
+```
+

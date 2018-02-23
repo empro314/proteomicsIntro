@@ -1,0 +1,13 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IRF1	2	IRF1	interferon regulatory factor 1	1920	0.19584786891937256	-0.22331458	No	
+row_1	MAPK9	4	MAPK9	mitogen-activated protein kinase 9	2613	0.08548559248447418	-0.3022911	No	
+row_2	STAT3	20	STAT3	signal transducer and activator of transcription 3 (acute-phase response factor)	3086	0.01438905205577612	-0.36061007	No	
+row_3	PPP3CA	15	PPP3CA	protein phosphatase 3 (formerly 2B), catalytic subunit, alpha isoform (calcineurin A alpha)	3318	-0.016158077865839005	-0.38822797	No	
+row_4	PPP3R1	12	PPP3R1	protein phosphatase 3 (formerly 2B), regulatory subunit B, 19kDa, alpha isoform (calcineurin B, type I)	3421	-0.031127184629440308	-0.3979916	No	
+row_5	JUN	13	JUN	jun oncogene	3913	-0.0963917225599289	-0.450407	No	
+row_6	PPP3CB	15	PPP3CB	protein phosphatase 3 (formerly 2B), catalytic subunit, beta isoform (calcineurin A beta)	4688	-0.19249087572097778	-0.528925	No	
+row_7	MAPK8	8	MAPK8	mitogen-activated protein kinase 8	4750	-0.20127122104167938	-0.5162543	No	
+row_8	CREBBP	9	CREBBP	CREB binding protein (Rubinstein-Taybi syndrome)	5057	-0.24057413637638092	-0.53062916	No	
+row_9	TGFB1	8	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	6717	-0.5690289735794067	-0.6830722	Yes	
+row_10	PIAS2	2	PIAS2	protein inhibitor of activated STAT, 2	7526	-1.0721701383590698	-0.6767526	Yes	
+row_11	IL2RA	4	IL2RA	interleukin 2 receptor, alpha	7905	-7.1531853675842285	2.5322297E-4	Yes	

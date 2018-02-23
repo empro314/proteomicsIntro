@@ -1,0 +1,18 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ARHGDIB	4	ARHGDIB	Rho GDP dissociation inhibitor (GDI) beta	33	1.984142541885376	0.276633	Yes	
+row_1	CASP7	8	CASP7	caspase 7, apoptosis-related cysteine peptidase	427	0.6911333799362183	0.32464528	Yes	
+row_2	CASP1	11	CASP1	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)	654	0.5534986257553101	0.37434152	Yes	
+row_3	XIAP	16	null	null	740	0.5080341100692749	0.43547165	Yes	
+row_4	LMNA	215	LMNA	lamin A/C	866	0.448087215423584	0.48304844	Yes	
+row_5	DFFA	12	DFFA	DNA fragmentation factor, 45kDa, alpha polypeptide	889	0.43943387269973755	0.54245335	Yes	
+row_6	CASP8	10	CASP8	caspase 8, apoptosis-related cysteine peptidase	1057	0.3914237320423126	0.5766881	Yes	
+row_7	CASP6	12	CASP6	caspase 6, apoptosis-related cysteine peptidase	1219	0.34478938579559326	0.605083	Yes	
+row_8	BIRC2	7	BIRC2	baculoviral IAP repeat-containing 2	1656	0.24328505992889404	0.58426225	No	
+row_9	LMNB1	99	LMNB1	lamin B1	1793	0.2187597006559372	0.5979884	No	
+row_10	CASP3	19	CASP3	caspase 3, apoptosis-related cysteine peptidase	2015	0.17761613428592682	0.5951198	No	
+row_11	PARP1	60	PARP1	poly (ADP-ribose) polymerase family, member 1	3004	0.027450919151306152	0.47379896	No	
+row_12	APAF1	10	APAF1	apoptotic peptidase activating factor	3007	0.026471462100744247	0.477292	No	
+row_13	LMNB2	78	LMNB2	lamin B2	3653	-0.060968682169914246	0.40418217	No	
+row_14	CASP4	13	CASP4	caspase 4, apoptosis-related cysteine peptidase	4199	-0.13164258003234863	0.3537475	No	
+row_15	CYCS	20	CYCS	cytochrome c, somatic	6060	-0.39909660816192627	0.17451991	No	
+row_16	CASP2	2	CASP2	caspase 2, apoptosis-related cysteine peptidase (neural precursor cell expressed, developmentally down-regulated 2)	6161	-0.41982364654541016	0.22126473	No	

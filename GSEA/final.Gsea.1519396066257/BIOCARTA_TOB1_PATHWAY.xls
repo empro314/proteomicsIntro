@@ -1,0 +1,9 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TOB2	2	TOB2	transducer of ERBB2, 2	1156	0.3606308102607727	-0.11079012	No	
+row_1	SMAD3	11	SMAD3	SMAD, mothers against DPP homolog 3 (Drosophila)	2125	0.1591992974281311	-0.2176332	No	
+row_2	SMAD4	10	SMAD4	SMAD, mothers against DPP homolog 4 (Drosophila)	2749	0.06492996215820312	-0.29009533	No	
+row_3	TGFBR1	3	TGFBR1	transforming growth factor, beta receptor I (activin A receptor type II-like kinase, 53kDa)	3671	-0.06305954605340958	-0.40046328	No	
+row_4	TGFB1	8	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	6717	-0.5690289735794067	-0.7298304	Yes	
+row_5	TGFB2	12	TGFB2	transforming growth factor, beta 2	6942	-0.6646713018417358	-0.69268364	Yes	
+row_6	TGFBR2	5	TGFBR2	transforming growth factor, beta receptor II (70/80kDa)	7565	-1.11276376247406	-0.66175854	Yes	
+row_7	IL2RA	4	IL2RA	interleukin 2 receptor, alpha	7905	-7.1531853675842285	2.5321695E-4	Yes	

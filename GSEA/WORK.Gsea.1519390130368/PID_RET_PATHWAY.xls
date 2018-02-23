@@ -1,0 +1,33 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IRS1	13	IRS1	insulin receptor substrate 1	126	1.0986032485961914	0.09266189	Yes	
+row_1	DOK1	14	DOK1	docking protein 1, 62kDa (downstream of tyrosine kinase 1)	327	0.7847748398780823	0.14488824	Yes	
+row_2	BCAR1	25	BCAR1	breast cancer anti-estrogen resistance 1	482	0.6528148651123047	0.1899033	Yes	
+row_3	GRB7	1	GRB7	growth factor receptor-bound protein 7	532	0.6139804124832153	0.244409	Yes	
+row_4	GAB1	7	GAB1	GRB2-associated binding protein 1	766	0.49556612968444824	0.26384056	Yes	
+row_5	RHOA	3	RHOA	ras homolog gene family, member A	925	0.43072018027305603	0.28638098	Yes	
+row_6	PXN	35	PXN	paxillin	1042	0.3946506977081299	0.3106865	Yes	
+row_7	NCK1	23	NCK1	NCK adaptor protein 1	1091	0.38272824883461	0.34244666	Yes	
+row_8	CRK	27	CRK	v-crk sarcoma virus CT10 oncogene homolog (avian)	1224	0.34348204731941223	0.35965973	Yes	
+row_9	CREB1	5	CREB1	cAMP responsive element binding protein 1	1364	0.31159624457359314	0.37283033	Yes	
+row_10	MAPK1	27	MAPK1	mitogen-activated protein kinase 1	1638	0.24736157059669495	0.3626339	No	
+row_11	SHC1	23	SHC1	SHC (Src homology 2 domain containing) transforming protein 1	1909	0.1978486180305481	0.34792122	No	
+row_12	PDLIM7	37	PDLIM7	PDZ and LIM domain 7 (enigma)	1964	0.18727010488510132	0.35958734	No	
+row_13	GRB2	17	GRB2	growth factor receptor-bound protein 2	2017	0.17744673788547516	0.37053576	No	
+row_14	PRKCA	23	PRKCA	protein kinase C, alpha	2164	0.15264014899730682	0.36709565	No	
+row_15	PIK3CA	1	PIK3CA	phosphoinositide-3-kinase, catalytic, alpha polypeptide	2862	0.04649175703525543	0.28319734	No	
+row_16	RAC1	8	RAC1	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)	2895	0.04245758056640625	0.28333372	No	
+row_17	PTPN11	26	PTPN11	protein tyrosine phosphatase, non-receptor type 11 (Noonan syndrome 1)	2922	0.038500845432281494	0.28384057	No	
+row_18	RASA1	15	RASA1	RAS p21 protein activator (GTPase activating protein) 1	2946	0.034880004823207855	0.28437018	No	
+row_19	MAPK3	28	MAPK3	mitogen-activated protein kinase 3	3291	-0.012350315228104591	0.24191473	No	
+row_20	RAP1A	5	RAP1A	RAP1A, member of RAS oncogene family	3561	-0.049980416893959045	0.21270376	No	
+row_21	JUN	13	JUN	jun oncogene	3913	-0.0963917225599289	0.17767183	No	
+row_22	PTK2	32	PTK2	PTK2 protein tyrosine kinase 2	4400	-0.15766726434230804	0.13155983	No	
+row_23	SRC	3	SRC	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)	4427	-0.16156883537769318	0.144239	No	
+row_24	FRS2	1	FRS2	fibroblast growth factor receptor substrate 2	4590	-0.18236775696277618	0.14170767	No	
+row_25	MAPK8	8	MAPK8	mitogen-activated protein kinase 8	4750	-0.20127122104167938	0.14142695	No	
+row_26	PRKACA	12	PRKACA	protein kinase, cAMP-dependent, catalytic, alpha	5358	-0.2787505090236664	0.09192783	No	
+row_27	SOS1	7	SOS1	son of sevenless homolog 1 (Drosophila)	5395	-0.28486865758895874	0.115532555	No	
+row_28	GRB10	4	GRB10	growth factor receptor-bound protein 10	5623	-0.32699981331825256	0.11905348	No	
+row_29	HRAS	3	HRAS	v-Ha-ras Harvey rat sarcoma viral oncogene homolog	5693	-0.33726024627685547	0.14365019	No	
+row_30	PIK3R1	4	PIK3R1	phosphoinositide-3-kinase, regulatory subunit 1 (p85 alpha)	6794	-0.5967109799385071	0.063004434	No	
+row_31	IRS2	9	IRS2	insulin receptor substrate 2	7171	-0.7904790043830872	0.093448594	No	

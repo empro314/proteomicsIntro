@@ -1,0 +1,10 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ARHGDIB	4	ARHGDIB	Rho GDP dissociation inhibitor (GDI) beta	33	1.984142541885376	0.5182315	Yes	
+row_1	CASP1	11	CASP1	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)	654	0.5534986257553101	0.58547246	Yes	
+row_2	CASP8	10	CASP8	caspase 8, apoptosis-related cysteine peptidase	1057	0.3914237320423126	0.63763875	Yes	
+row_3	CASP3	19	CASP3	caspase 3, apoptosis-related cysteine peptidase	2015	0.17761613428592682	0.5632491	No	
+row_4	PARP1	60	PARP1	poly (ADP-ribose) polymerase family, member 1	3004	0.027450919151306152	0.44539762	No	
+row_5	APAF1	10	APAF1	apoptotic peptidase activating factor	3007	0.026471462100744247	0.45211416	No	
+row_6	JUN	13	JUN	jun oncogene	3913	-0.0963917225599289	0.3629219	No	
+row_7	ARHGAP5	10	ARHGAP5	Rho GTPase activating protein 5	4277	-0.14196978509426117	0.35434625	No	
+row_8	CYCS	20	CYCS	cytochrome c, somatic	6060	-0.39909660816192627	0.2338271	No	

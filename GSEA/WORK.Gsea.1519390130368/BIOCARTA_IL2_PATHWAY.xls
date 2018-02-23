@@ -1,0 +1,15 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT5B	7	STAT5B	signal transducer and activator of transcription 5B	1534	0.2696413993835449	-0.16824871	No	
+row_1	ELK1	2	ELK1	ELK1, member of ETS oncogene family	1622	0.2527143657207489	-0.15483059	No	
+row_2	SHC1	23	SHC1	SHC (Src homology 2 domain containing) transforming protein 1	1909	0.1978486180305481	-0.17192736	No	
+row_3	GRB2	17	GRB2	growth factor receptor-bound protein 2	2017	0.17744673788547516	-0.1683217	No	
+row_4	MAP2K1	14	MAP2K1	mitogen-activated protein kinase kinase 1	2269	0.13586166501045227	-0.18697928	No	
+row_5	CSNK2A1	32	CSNK2A1	casein kinase 2, alpha 1 polypeptide	2538	0.09685248136520386	-0.21156283	No	
+row_6	MAPK3	28	MAPK3	mitogen-activated protein kinase 3	3291	-0.012350315228104591	-0.3056307	No	
+row_7	JUN	13	JUN	jun oncogene	3913	-0.0963917225599289	-0.37497634	No	
+row_8	MAPK8	8	MAPK8	mitogen-activated protein kinase 8	4750	-0.20127122104167938	-0.4614153	No	
+row_9	RAF1	13	RAF1	v-raf-1 murine leukemia viral oncogene homolog 1	4854	-0.21553495526313782	-0.45361954	No	
+row_10	SOS1	7	SOS1	son of sevenless homolog 1 (Drosophila)	5395	-0.28486865758895874	-0.49447724	No	
+row_11	HRAS	3	HRAS	v-Ha-ras Harvey rat sarcoma viral oncogene homolog	5693	-0.33726024627685547	-0.49948546	No	
+row_12	JAK1	9	JAK1	Janus kinase 1 (a protein tyrosine kinase)	7325	-0.90932697057724	-0.6181601	Yes	
+row_13	IL2RA	4	IL2RA	interleukin 2 receptor, alpha	7905	-7.1531853675842285	2.5337026E-4	Yes	

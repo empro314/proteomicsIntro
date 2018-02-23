@@ -1,0 +1,23 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BCAR1	25	BCAR1	breast cancer anti-estrogen resistance 1	482	0.6528148651123047	0.02480812	No	
+row_1	CRK	27	CRK	v-crk sarcoma virus CT10 oncogene homolog (avian)	1224	0.34348204731941223	-0.023943814	No	
+row_2	ITGB2	3	ITGB2	integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)	1382	0.30769938230514526	-0.00335048	No	
+row_3	PLAUR	15	PLAUR	plasminogen activator, urokinase receptor	1771	0.2227979451417923	-0.023225019	No	
+row_4	FN1	368	FN1	fibronectin 1	1850	0.20729054510593414	-0.0058306037	No	
+row_5	ITGA3	89	ITGA3	integrin, alpha 3 (antigen CD49C, alpha 3 subunit of VLA-3 receptor)	1978	0.18521560728549957	0.0024445753	No	
+row_6	LRP1	266	LRP1	low density lipoprotein-related protein 1 (alpha-2-macroglobulin receptor)	2123	0.15965385735034943	0.0051993774	No	
+row_7	ITGAV	107	ITGAV	integrin, alpha V (vitronectin receptor, alpha polypeptide, antigen CD51)	2228	0.14352740347385406	0.010903758	No	
+row_8	DOCK1	14	DOCK1	dedicator of cytokinesis 1	2695	0.07221656292676926	-0.038682543	No	
+row_9	ITGB1	131	ITGB1	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	2888	0.0435115322470665	-0.057302125	No	
+row_10	RAC1	8	RAC1	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)	2895	0.04245758056640625	-0.05247434	No	
+row_11	EGFR	63	EGFR	epidermal growth factor receptor (erythroblastic leukemia viral (v-erb-b) oncogene homolog, avian)	4176	-0.12720327079296112	-0.19804372	No	
+row_12	SRC	3	SRC	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)	4427	-0.16156883537769318	-0.20847839	No	
+row_13	ITGA5	51	ITGA5	integrin, alpha 5 (fibronectin receptor, alpha polypeptide)	5393	-0.28459417819976807	-0.29338643	Yes	
+row_14	ITGB3	8	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)	5598	-0.32320064306259155	-0.2767126	Yes	
+row_15	ITGB5	62	ITGB5	integrin, beta 5	5662	-0.3324775695800781	-0.2409379	Yes	
+row_16	VLDLR	19	VLDLR	very low density lipoprotein receptor	5859	-0.3675917983055115	-0.21740648	Yes	
+row_17	PDGFRB	28	PDGFRB	platelet-derived growth factor receptor, beta polypeptide	5877	-0.37122848629951477	-0.17069793	Yes	
+row_18	PLAU	19	PLAU	plasminogen activator, urokinase	6133	-0.4134487211704254	-0.14861204	Yes	
+row_19	TGFB1	8	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	6717	-0.5690289735794067	-0.14764005	Yes	
+row_20	NCL	61	NCL	nucleolin	6917	-0.648823618888855	-0.087470904	Yes	
+row_21	SERPINE1	50	SERPINE1	serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1	7853	-1.617301106452942	0.0068476005	Yes	

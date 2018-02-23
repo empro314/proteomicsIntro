@@ -1,0 +1,36 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ITGA4	20	ITGA4	integrin, alpha 4 (antigen CD49D, alpha 4 subunit of VLA-4 receptor)	115	1.1604726314544678	0.046207163	No	
+row_1	BIN1	48	BIN1	bridging integrator 1	1122	0.37232381105422974	-0.062059864	No	
+row_2	ASAP2	25	null	null	1687	0.2379963994026184	-0.121225014	No	
+row_3	ITGA3	89	ITGA3	integrin, alpha 3 (antigen CD49C, alpha 3 subunit of VLA-3 receptor)	1978	0.18521560728549957	-0.14835362	No	
+row_4	ARF6	18	ARF6	ADP-ribosylation factor 6	2105	0.16332662105560303	-0.15579863	No	
+row_5	EXOC6	8	EXOC6	exocyst complex component 6	2126	0.15917836129665375	-0.1499973	No	
+row_6	ITGAV	107	ITGAV	integrin, alpha V (vitronectin receptor, alpha polypeptide, antigen CD51)	2228	0.14352740347385406	-0.15530446	No	
+row_7	ITGA10	3	ITGA10	integrin, alpha 10	2491	0.1037488728761673	-0.18314584	No	
+row_8	ITGB1	131	ITGB1	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	2888	0.0435115322470665	-0.23116413	No	
+row_9	KLC1	56	null	null	2897	0.042191773653030396	-0.22996922	No	
+row_10	ITGA7	35	ITGA7	integrin, alpha 7	2966	0.03241707757115364	-0.23690753	No	
+row_11	EXOC1	23	EXOC1	exocyst complex component 1	3190	-8.174733375199139E-5	-0.2652279	No	
+row_12	CLTC	145	CLTC	clathrin, heavy chain (Hc)	3308	-0.014521386474370956	-0.27932784	No	
+row_13	EXOC5	26	EXOC5	exocyst complex component 5	4208	-0.1324138641357422	-0.38657647	No	
+row_14	EXOC4	30	EXOC4	exocyst complex component 4	4305	-0.14624015986919403	-0.3911064	No	
+row_15	VAMP3	7	VAMP3	vesicle-associated membrane protein 3 (cellubrevin)	4574	-0.17996259033679962	-0.41571593	No	
+row_16	EXOC7	25	EXOC7	exocyst complex component 7	4815	-0.21108673512935638	-0.43513796	No	
+row_17	DNM2	49	DNM2	dynamin 2	4956	-0.22876204550266266	-0.4409321	No	
+row_18	EXOC2	31	EXOC2	exocyst complex component 2	5092	-0.24472731351852417	-0.44525447	No	
+row_19	CTNNB1	32	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	5256	-0.2646200656890869	-0.45209086	No	
+row_20	EXOC3	24	EXOC3	exocyst complex component 3	5305	-0.2709280252456665	-0.44398978	No	
+row_21	ITGA6	43	ITGA6	integrin, alpha 6	5368	-0.280830055475235	-0.437148	No	
+row_22	ITGA5	51	ITGA5	integrin, alpha 5 (fibronectin receptor, alpha polypeptide)	5393	-0.28459417819976807	-0.4252824	No	
+row_23	CTNND1	81	CTNND1	catenin (cadherin-associated protein), delta 1	5649	-0.3310094177722931	-0.44032517	No	
+row_24	CTNNA1	73	CTNNA1	catenin (cadherin-associated protein), alpha 1, 102kDa	5843	-0.36323282122612	-0.44580427	No	
+row_25	RALA	19	RALA	v-ral simian leukemia viral oncogene homolog A (ras related)	5959	-0.38311630487442017	-0.4403341	No	
+row_26	PIP5K1C	2	PIP5K1C	phosphatidylinositol-4-phosphate 5-kinase, type I, gamma	6012	-0.39178943634033203	-0.42640743	No	
+row_27	SPAG9	49	SPAG9	sperm associated antigen 9	6045	-0.39710289239883423	-0.40966195	No	
+row_28	SCAMP2	6	SCAMP2	secretory carrier membrane protein 2	6429	-0.48637184500694275	-0.43282112	No	
+row_29	PLD1	4	PLD1	phospholipase D1, phosphatidylcholine-specific	7022	-0.6989383101463318	-0.47138727	Yes	
+row_30	ITGA1	15	ITGA1	integrin, alpha 1	7155	-0.781789243221283	-0.44718412	Yes	
+row_31	CPE	5	CPE	carboxypeptidase E	7304	-0.8947439193725586	-0.4190939	Yes	
+row_32	ITGA11	27	ITGA11	integrin, alpha 11	7444	-1.0101709365844727	-0.38381162	Yes	
+row_33	ITGA2	60	ITGA2	integrin, alpha 2 (CD49B, alpha 2 subunit of VLA-2 receptor)	7728	-1.2881842851638794	-0.35225055	Yes	
+row_34	IL2RA	4	IL2RA	interleukin 2 receptor, alpha	7905	-7.1531853675842285	2.5405802E-4	Yes	

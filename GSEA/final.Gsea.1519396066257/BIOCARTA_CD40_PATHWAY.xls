@@ -1,0 +1,9 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IKBKG	25	IKBKG	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma	789	0.48548510670661926	0.14408112	Yes	
+row_1	NFKB1	20	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	999	0.40775132179260254	0.322519	Yes	
+row_2	NFKBIA	2	NFKBIA	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha	1146	0.3647410571575165	0.48731908	Yes	
+row_3	RELA	19	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	1290	0.32634803652763367	0.63320655	Yes	
+row_4	TRAF6	9	TRAF6	TNF receptor-associated factor 6	3056	0.019398951902985573	0.41953674	No	
+row_5	IKBKB	28	IKBKB	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	3642	-0.06015733629465103	0.37571496	No	
+row_6	CHUK	9	CHUK	conserved helix-loop-helix ubiquitous kinase	3734	-0.07102616876363754	0.39988637	No	
+row_7	IKBKAP	30	IKBKAP	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase complex-associated protein	5176	-0.2551558315753937	0.34569618	No	

@@ -1,0 +1,42 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	POLR2K	1	POLR2K	polymerase (RNA) II (DNA directed) polypeptide K, 7.0kDa	134	1.0757046937942505	0.040144876	No	
+row_1	SF3B4	12	SF3B4	splicing factor 3b, subunit 4, 49kDa	179	0.976860761642456	0.086476	No	
+row_2	SF3B5	12	SF3B5	splicing factor 3b, subunit 5, 10kDa	467	0.6597224473953247	0.08506141	No	
+row_3	LSM2	11	LSM2	LSM2 homolog, U6 small nuclear RNA associated (S. cerevisiae)	558	0.5974534749984741	0.10537828	No	
+row_4	POLR2J	6	POLR2J	polymerase (RNA) II (DNA directed) polypeptide J, 13.3kDa	563	0.5964182615280151	0.13657187	No	
+row_5	SNRNP40	15	null	null	833	0.46060463786125183	0.1268614	No	
+row_6	NHP2L1	16	NHP2L1	NHP2 non-histone chromosome protein 2-like 1 (S. cerevisiae)	875	0.44356483221054077	0.14522702	No	
+row_7	SNRPF	10	SNRPF	small nuclear ribonucleoprotein polypeptide F	892	0.43891483545303345	0.16652331	No	
+row_8	POLR2I	5	POLR2I	polymerase (RNA) II (DNA directed) polypeptide I, 14.5kDa	949	0.42195460200309753	0.18183357	No	
+row_9	POLR2D	7	POLR2D	polymerase (RNA) II (DNA directed) polypeptide D	1006	0.4052664339542389	0.19625677	No	
+row_10	POLR2C	13	POLR2C	polymerase (RNA) II (DNA directed) polypeptide C, 33kDa	1084	0.38470810651779175	0.20691784	No	
+row_11	NCBP2	5	NCBP2	nuclear cap binding protein subunit 2, 20kDa	1767	0.22306065261363983	0.13208316	No	
+row_12	POLR2F	8	POLR2F	polymerase (RNA) II (DNA directed) polypeptide F	1940	0.1914215087890625	0.12039451	No	
+row_13	POLR2G	9	POLR2G	polymerase (RNA) II (DNA directed) polypeptide G	2381	0.11804665625095367	0.07073933	No	
+row_14	SNRPD2	24	SNRPD2	small nuclear ribonucleoprotein D2 polypeptide 16.5kDa	2713	0.0701969638466835	0.032396093	No	
+row_15	PRPF8	109	PRPF8	PRP8 pre-mRNA processing factor 8 homolog (S. cerevisiae)	2958	0.033124007284641266	0.0031411333	No	
+row_16	SNRPB	24	SNRPB	small nuclear ribonucleoprotein polypeptides B and B1	3111	0.01127125695347786	-0.01558097	No	
+row_17	POLR2H	9	POLR2H	polymerase (RNA) II (DNA directed) polypeptide H	3174	0.001597886672243476	-0.023377059	No	
+row_18	NCBP1	21	NCBP1	nuclear cap binding protein subunit 1, 80kDa	3211	-0.002071784343570471	-0.027843012	No	
+row_19	TXNL4A	12	TXNL4A	thioredoxin-like 4A	3284	-0.011322937905788422	-0.036393307	No	
+row_20	SF3B3	82	SF3B3	splicing factor 3b, subunit 3, 130kDa	3382	-0.025490060448646545	-0.047368392	No	
+row_21	GTF2F2	14	GTF2F2	general transcription factor IIF, polypeptide 2, 30kDa	3851	-0.08892922103404999	-0.10213045	No	
+row_22	POLR2E	10	POLR2E	polymerase (RNA) II (DNA directed) polypeptide E, 25kDa	3980	-0.10528813302516937	-0.112804465	No	
+row_23	POLR2A	40	POLR2A	polymerase (RNA) II (DNA directed) polypeptide A, 220kDa	4098	-0.1168198511004448	-0.12146726	No	
+row_24	SNRPD3	15	SNRPD3	small nuclear ribonucleoprotein D3 polypeptide 18kDa	4145	-0.12334296852350235	-0.120758295	No	
+row_25	SF3B14	5	SF3B14	-	4487	-0.16949927806854248	-0.15509436	No	
+row_26	SNRNP200	108	null	null	4542	-0.1767417937517166	-0.15256393	No	
+row_27	POLR2B	28	POLR2B	polymerase (RNA) II (DNA directed) polypeptide B, 140kDa	4548	-0.17710858583450317	-0.14378545	No	
+row_28	PRPF6	38	PRPF6	PRP6 pre-mRNA processing factor 6 homolog (S. cerevisiae)	4888	-0.21979442238807678	-0.17519389	No	
+row_29	POLR2L	1	POLR2L	polymerase (RNA) II (DNA directed) polypeptide L, 7.6kDa	5070	-0.2420581877231598	-0.18533501	No	
+row_30	DDX23	31	DDX23	DEAD (Asp-Glu-Ala-Asp) box polypeptide 23	5180	-0.25547468662261963	-0.18561085	No	
+row_31	SF3B1	77	SF3B1	splicing factor 3b, subunit 1, 155kDa	5265	-0.265935480594635	-0.18215282	No	
+row_32	EFTUD2	80	EFTUD2	elongation factor Tu GTP binding domain containing 2	5571	-0.31629157066345215	-0.20411019	No	
+row_33	SNRPE	11	SNRPE	small nuclear ribonucleoprotein polypeptide E	6073	-0.4021430015563965	-0.2464184	No	
+row_34	SNRPD1	6	SNRPD1	small nuclear ribonucleoprotein D1 polypeptide 16kDa	6146	-0.41599658131599426	-0.23345867	No	
+row_35	SRSF2	14	null	null	7221	-0.8292295336723328	-0.3259014	Yes	
+row_36	GTF2F1	21	GTF2F1	general transcription factor IIF, polypeptide 1, 74kDa	7229	-0.8333173394203186	-0.28249702	Yes	
+row_37	SRSF6	7	null	null	7764	-1.3602133989334106	-0.27807465	Yes	
+row_38	SRSF7	12	null	null	7776	-1.3783882856369019	-0.20620598	Yes	
+row_39	SF3B2	79	SF3B2	splicing factor 3b, subunit 2, 145kDa	7833	-1.5307673215866089	-0.13195786	Yes	
+row_40	SRSF1	49	null	null	7897	-2.657128095626831	0.001271118	Yes	

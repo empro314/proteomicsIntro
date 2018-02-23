@@ -1,0 +1,7 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PROS1	8	PROS1	protein S (alpha)	3618	-0.05713574215769768	-0.4307381	No	
+row_1	CFH	12	CFH	complement factor H	4980	-0.23116500675678253	-0.4932457	Yes	
+row_2	C3	1	C3	complement component 3	5155	-0.2525857388973236	-0.3953704	Yes	
+row_3	CD46	6	CD46	CD46 molecule, complement regulatory protein	5433	-0.29160192608833313	-0.2920099	Yes	
+row_4	CD55	16	CD55	CD55 molecule, decay accelerating factor for complement (Cromer blood group)	5776	-0.3510410785675049	-0.16866115	Yes	
+row_5	C4A	13	C4A	complement component 4A (Rodgers blood group)	7345	-0.9231940507888794	0.07112128	Yes	

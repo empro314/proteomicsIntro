@@ -1,0 +1,23 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	B2M	7	B2M	beta-2-microglobulin	398	0.7111106514930725	0.0019573143	No	
+row_1	NFKB1	20	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	999	0.40775132179260254	-0.044065498	No	
+row_2	RELA	19	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	1290	0.32634803652763367	-0.05677958	No	
+row_3	RELB	1	RELB	v-rel reticuloendotheliosis viral oncogene homolog B, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3 (avian)	1305	0.3223320543766022	-0.034791004	No	
+row_4	MAP2K3	10	MAP2K3	mitogen-activated protein kinase kinase 3	1653	0.24407440423965454	-0.060798693	No	
+row_5	HLA-A	32	HLA-A	major histocompatibility complex, class I, A	1905	0.19857527315616608	-0.07798733	No	
+row_6	SPHK2	2	SPHK2	sphingosine kinase 2	2110	0.16251049935817719	-0.0918749	No	
+row_7	RIPK2	10	RIPK2	receptor-interacting serine-threonine kinase 2	2242	0.14084187150001526	-0.098103076	No	
+row_8	MTOR	26	null	null	2415	0.11476138979196548	-0.111453116	No	
+row_9	STAT6	24	STAT6	signal transducer and activator of transcription 6, interleukin-4 induced	2443	0.11131216585636139	-0.10667043	No	
+row_10	MAPK14	12	MAPK14	mitogen-activated protein kinase 14	2576	0.09109658002853394	-0.11669288	No	
+row_11	STAT1	49	STAT1	signal transducer and activator of transcription 1, 91kDa	2697	0.07202418148517609	-0.12659976	No	
+row_12	NFKB2	23	NFKB2	nuclear factor of kappa light polypeptide gene enhancer in B-cells 2 (p49/p100)	2774	0.058660805225372314	-0.13191232	No	
+row_13	ATF2	6	ATF2	activating transcription factor 2	2965	0.03242883458733559	-0.15361485	No	
+row_14	STAT3	20	STAT3	signal transducer and activator of transcription 3 (acute-phase response factor)	3086	0.01438905205577612	-0.16777086	No	
+row_15	PPP3CA	15	PPP3CA	protein phosphatase 3 (formerly 2B), catalytic subunit, alpha isoform (calcineurin A alpha)	3318	-0.016158077865839005	-0.19587202	No	
+row_16	PPP3R1	12	PPP3R1	protein phosphatase 3 (formerly 2B), regulatory subunit B, 19kDa, alpha isoform (calcineurin B, type I)	3421	-0.031127184629440308	-0.2065115	No	
+row_17	RAB7A	27	null	null	4551	-0.17769891023635864	-0.33657578	No	
+row_18	PPP3CB	15	PPP3CB	protein phosphatase 3 (formerly 2B), catalytic subunit, beta isoform (calcineurin A beta)	4688	-0.19249087572097778	-0.3396302	No	
+row_19	TYK2	2	TYK2	tyrosine kinase 2	6875	-0.6301159262657166	-0.5703751	Yes	
+row_20	IL1B	13	IL1B	interleukin 1, beta	7892	-2.354959011077881	-0.5255921	Yes	
+row_21	IL2RA	4	IL2RA	interleukin 2 receptor, alpha	7905	-7.1531853675842285	2.5351025E-4	Yes	

@@ -1,0 +1,38 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IRS1	13	IRS1	insulin receptor substrate 1	126	1.0986032485961914	0.047744036	No	
+row_1	STAM	36	STAM	signal transducing adaptor molecule (SH3 domain and ITAM motif) 1	497	0.6431440711021423	0.038057815	No	
+row_2	RHOA	3	RHOA	ras homolog gene family, member A	925	0.43072018027305603	0.008802817	No	
+row_3	STAT5B	7	STAT5B	signal transducer and activator of transcription 5B	1534	0.2696413993835449	-0.05279542	No	
+row_4	MAPK1	27	MAPK1	mitogen-activated protein kinase 1	1638	0.24736157059669495	-0.05152699	No	
+row_5	MAP2K2	18	MAP2K2	mitogen-activated protein kinase kinase 2	1659	0.24253062903881073	-0.039993864	No	
+row_6	SHC1	23	SHC1	SHC (Src homology 2 domain containing) transforming protein 1	1909	0.1978486180305481	-0.06014778	No	
+row_7	STAM2	29	STAM2	signal transducing adaptor molecule (SH3 domain and ITAM motif) 2	1967	0.1869032084941864	-0.056543525	No	
+row_8	GRB2	17	GRB2	growth factor receptor-bound protein 2	2017	0.17744673788547516	-0.052471638	No	
+row_9	MAP2K1	14	MAP2K1	mitogen-activated protein kinase kinase 1	2269	0.13586166501045227	-0.076476775	No	
+row_10	MAPK14	12	MAPK14	mitogen-activated protein kinase 14	2576	0.09109658002853394	-0.11006731	No	
+row_11	MAPK9	4	MAPK9	mitogen-activated protein kinase 9	2613	0.08548559248447418	-0.10968031	No	
+row_12	CDK2	8	CDK2	cyclin-dependent kinase 2	2678	0.07573764026165009	-0.11341636	No	
+row_13	STAT1	49	STAT1	signal transducer and activator of transcription 1, 91kDa	2697	0.07202418148517609	-0.11152365	No	
+row_14	PIK3CA	1	PIK3CA	phosphoinositide-3-kinase, catalytic, alpha polypeptide	2862	0.04649175703525543	-0.12966171	No	
+row_15	PTPN11	26	PTPN11	protein tyrosine phosphatase, non-receptor type 11 (Noonan syndrome 1)	2922	0.038500845432281494	-0.13492337	No	
+row_16	RASA1	15	RASA1	RAS p21 protein activator (GTPase activating protein) 1	2946	0.034880004823207855	-0.13582139	No	
+row_17	BCL2	1	BCL2	B-cell CLL/lymphoma 2	3027	0.023742415010929108	-0.1446075	No	
+row_18	MAPKAPK2	12	MAPKAPK2	mitogen-activated protein kinase-activated protein kinase 2	3059	0.018838204443454742	-0.14745283	No	
+row_19	STAT3	20	STAT3	signal transducer and activator of transcription 3 (acute-phase response factor)	3086	0.01438905205577612	-0.14992109	No	
+row_20	MYC	2	MYC	v-myc myelocytomatosis viral oncogene homolog (avian)	3115	0.010682940483093262	-0.15285853	No	
+row_21	MAPK3	28	MAPK3	mitogen-activated protein kinase 3	3291	-0.012350315228104591	-0.17437534	No	
+row_22	JUN	13	JUN	jun oncogene	3913	-0.0963917225599289	-0.24767894	No	
+row_23	GAB2	4	GAB2	GRB2-associated binding protein 2	4163	-0.12585705518722534	-0.27201054	No	
+row_24	KRAS	6	KRAS	v-Ki-ras2 Kirsten rat sarcoma viral oncogene homolog	4458	-0.1650204211473465	-0.29978666	No	
+row_25	PPP2R5D	15	PPP2R5D	protein phosphatase 2, regulatory subunit B (B56), delta isoform	4520	-0.17445868253707886	-0.29741275	No	
+row_26	MAPK8	8	MAPK8	mitogen-activated protein kinase 8	4750	-0.20127122104167938	-0.31482708	No	
+row_27	RAF1	13	RAF1	v-raf-1 murine leukemia viral oncogene homolog 1	4854	-0.21553495526313782	-0.31540558	No	
+row_28	SOS1	7	SOS1	son of sevenless homolog 1 (Drosophila)	5395	-0.28486865758895874	-0.36748087	No	
+row_29	NRAS	10	NRAS	neuroblastoma RAS viral (v-ras) oncogene homolog	5432	-0.2913493514060974	-0.35514754	No	
+row_30	HRAS	3	HRAS	v-Ha-ras Harvey rat sarcoma viral oncogene homolog	5693	-0.33726024627685547	-0.36860892	No	
+row_31	FYN	16	FYN	FYN oncogene related to SRC, FGR, YES	6537	-0.517462968826294	-0.44568247	Yes	
+row_32	PIK3R1	4	PIK3R1	phosphoinositide-3-kinase, regulatory subunit 1 (p85 alpha)	6794	-0.5967109799385071	-0.44357964	Yes	
+row_33	IRS2	9	IRS2	insulin receptor substrate 2	7171	-0.7904790043830872	-0.4454783	Yes	
+row_34	JAK1	9	JAK1	Janus kinase 1 (a protein tyrosine kinase)	7325	-0.90932697057724	-0.41214833	Yes	
+row_35	PRKCE	1	PRKCE	protein kinase C, epsilon	7673	-1.2189494371414185	-0.38549832	Yes	
+row_36	IL2RA	4	IL2RA	interleukin 2 receptor, alpha	7905	-7.1531853675842285	2.5422778E-4	Yes	

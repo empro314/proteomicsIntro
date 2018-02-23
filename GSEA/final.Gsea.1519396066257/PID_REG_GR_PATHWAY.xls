@@ -1,0 +1,44 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ICAM1	2	ICAM1	intercellular adhesion molecule 1 (CD54), human rhinovirus receptor	6	3.752307653427124	0.19779971	Yes	
+row_1	KRT14	2	KRT14	keratin 14 (epidermolysis bullosa simplex, Dowling-Meara, Koebner)	10	2.9315946102142334	0.35255083	Yes	
+row_2	KRT5	3	KRT5	keratin 5 (epidermolysis bullosa simplex, Dowling-Meara/Kobner/Weber-Cockayne types)	83	1.3335065841674805	0.41396213	Yes	
+row_3	YWHAH	41	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, eta polypeptide	809	0.47662368416786194	0.34700328	No	
+row_4	PCK2	31	PCK2	phosphoenolpyruvate carboxykinase 2 (mitochondrial)	852	0.45369771122932434	0.36567172	No	
+row_5	NFKB1	20	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	999	0.40775132179260254	0.36868563	No	
+row_6	RELA	19	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	1290	0.32634803652763367	0.34908292	No	
+row_7	CREB1	5	CREB1	cAMP responsive element binding protein 1	1364	0.31159624457359314	0.35629016	No	
+row_8	FKBP5	31	FKBP5	FK506 binding protein 5	1498	0.2771286368370056	0.35404474	No	
+row_9	STAT5B	7	STAT5B	signal transducer and activator of transcription 5B	1534	0.2696413993835449	0.36386338	No	
+row_10	SMARCD1	9	SMARCD1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1	1572	0.26286718249320984	0.37306926	No	
+row_11	CDKN1A	8	CDKN1A	cyclin-dependent kinase inhibitor 1A (p21, Cip1)	1625	0.25140538811683655	0.37976143	No	
+row_12	MAPK1	27	MAPK1	mitogen-activated protein kinase 1	1638	0.24736157059669495	0.39132544	No	
+row_13	IRF1	2	IRF1	interferon regulatory factor 1	1920	0.19584786891937256	0.36596128	No	
+row_14	NR3C1	24	NR3C1	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)	2207	0.14637033641338348	0.33734322	No	
+row_15	MAPK14	12	MAPK14	mitogen-activated protein kinase 14	2576	0.09109658002853394	0.2953742	No	
+row_16	MAPK9	4	MAPK9	mitogen-activated protein kinase 9	2613	0.08548559248447418	0.29532066	No	
+row_17	STAT1	49	STAT1	signal transducer and activator of transcription 1, 91kDa	2697	0.07202418148517609	0.28857893	No	
+row_18	HSP90AA1	203	HSP90AA1	heat shock protein 90kDa alpha (cytosolic), class A member 1	2733	0.06746526807546616	0.28769892	No	
+row_19	NCOA2	12	NCOA2	nuclear receptor coactivator 2	2963	0.03281233459711075	0.26031893	No	
+row_20	NCOA1	2	NCOA1	nuclear receptor coactivator 1	3101	0.012500827200710773	0.24356149	No	
+row_21	PPP5C	22	PPP5C	protein phosphatase 5, catalytic subunit	3189	-7.097432444425067E-6	0.2325002	No	
+row_22	POU2F1	5	POU2F1	POU domain, class 2, transcription factor 1	3244	-0.006705006118863821	0.22598915	No	
+row_23	GSK3B	12	GSK3B	glycogen synthase kinase 3 beta	3287	-0.01177008543163538	0.22127187	No	
+row_24	MAPK3	28	MAPK3	mitogen-activated protein kinase 3	3291	-0.012350315228104591	0.22154398	No	
+row_25	TSG101	29	TSG101	tumor susceptibility gene 101	3445	-0.03492840379476547	0.20393904	No	
+row_26	HDAC2	17	HDAC2	histone deacetylase 2	3615	-0.056968554854393005	0.18546607	No	
+row_27	JUN	13	JUN	jun oncogene	3913	-0.0963917225599289	0.15280463	No	
+row_28	BAX	18	BAX	BCL2-associated X protein	4010	-0.107977956533432	0.14631258	No	
+row_29	AFP	4	AFP	alpha-fetoprotein	4386	-0.1552463173866272	0.10684822	No	
+row_30	MAPK8	8	MAPK8	mitogen-activated protein kinase 8	4750	-0.20127122104167938	0.071345136	No	
+row_31	HDAC1	19	HDAC1	histone deacetylase 1	4811	-0.21070818603038788	0.07486654	No	
+row_32	EP300	9	EP300	E1A binding protein p300	4822	-0.21152842044830322	0.084788635	No	
+row_33	SMARCC1	21	SMARCC1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 1	4903	-0.22199907898902893	0.08636462	No	
+row_34	CREBBP	9	CREBBP	CREB binding protein (Rubinstein-Taybi syndrome)	5057	-0.24057413637638092	0.079641916	No	
+row_35	SMARCC2	58	SMARCC2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2	5181	-0.2555438280105591	0.077525735	No	
+row_36	PRKACA	12	PRKACA	protein kinase, cAMP-dependent, catalytic, alpha	5358	-0.2787505090236664	0.06989888	No	
+row_37	AKT1	12	AKT1	v-akt murine thymoma viral oncogene homolog 1	5596	-0.32254108786582947	0.056833435	No	
+row_38	CDK5	14	CDK5	cyclin-dependent kinase 5	6205	-0.4282153844833374	0.0021889913	No	
+row_39	SMARCA4	20	SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	6474	-0.49923112988471985	-0.005467982	No	
+row_40	SUMO2	2	SUMO2	SMT3 suppressor of mif two 3 homolog 2 (S. cerevisiae)	7460	-1.0223501920700073	-0.07660621	No	
+row_41	FKBP4	56	FKBP4	FK506 binding protein 4, 59kDa	7546	-1.0898724794387817	-0.029740296	No	
+row_42	PRKACB	1	PRKACB	protein kinase, cAMP-dependent, catalytic, beta	7791	-1.4269896745681763	0.014748852	No	

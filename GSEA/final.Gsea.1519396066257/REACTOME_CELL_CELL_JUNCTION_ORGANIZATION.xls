@@ -1,0 +1,21 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CDH13	27	CDH13	cadherin 13, H-cadherin (heart)	158	1.0175529718399048	0.04975959	No	
+row_1	INADL	5	INADL	InaD-like (Drosophila)	545	0.6050649881362915	0.04232356	No	
+row_2	F11R	7	F11R	F11 receptor	603	0.5757845044136047	0.074588224	No	
+row_3	PARD6B	8	PARD6B	par-6 partitioning defective 6 homolog beta (C. elegans)	1743	0.22631853818893433	-0.054286014	No	
+row_4	PVRL3	9	PVRL3	poliovirus receptor-related 3	2814	0.05353687331080437	-0.18626322	No	
+row_5	PARD3	25	PARD3	par-3 partitioning defective 3 homolog (C. elegans)	2994	0.02885536104440689	-0.20697683	No	
+row_6	CDH4	5	CDH4	cadherin 4, type 1, R-cadherin (retinal)	3073	0.016459070146083832	-0.2157364	No	
+row_7	PVRL1	1	PVRL1	poliovirus receptor-related 1 (herpesvirus entry mediator C; nectin)	3751	-0.07434554398059845	-0.2964639	No	
+row_8	PVR	11	PVR	poliovirus receptor	3772	-0.07813470810651779	-0.29364043	No	
+row_9	PRKCI	8	PRKCI	protein kinase C, iota	4117	-0.11928367614746094	-0.3290698	No	
+row_10	JUP	46	JUP	junction plakoglobin	4410	-0.15934385359287262	-0.35515925	No	
+row_11	PVRL2	21	PVRL2	poliovirus receptor-related 2 (herpesvirus entry mediator B)	4831	-0.21208778023719788	-0.39385843	No	
+row_12	CDH2	51	CDH2	cadherin 2, type 1, N-cadherin (neuronal)	5041	-0.23876120150089264	-0.40397865	No	
+row_13	CTNNB1	32	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	5256	-0.2646200656890869	-0.41295922	No	
+row_14	CTNND1	81	CTNND1	catenin (cadherin-associated protein), delta 1	5649	-0.3310094177722931	-0.43995228	No	
+row_15	CTNNA1	73	CTNNA1	catenin (cadherin-associated protein), alpha 1, 102kDa	5843	-0.36323282122612	-0.4395071	No	
+row_16	MPP5	23	MPP5	membrane protein, palmitoylated 5 (MAGUK p55 subfamily member 5)	6217	-0.43068087100982666	-0.4572554	No	
+row_17	CDH10	3	CDH10	cadherin 10, type 2 (T2-cadherin)	6798	-0.5988671183586121	-0.48971084	No	
+row_18	CDH6	17	CDH6	cadherin 6, type 2, K-cadherin (fetal kidney)	7668	-1.212352991104126	-0.51672757	Yes	
+row_19	CADM1	3	null	null	7906	-7.973917007446289	1.2682141E-4	Yes	

@@ -1,0 +1,8 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STAT5B	7	STAT5B	signal transducer and activator of transcription 5B	1534	0.2696413993835449	-0.07112473	No	
+row_1	STAT2	24	STAT2	signal transducer and activator of transcription 2, 113kDa	1982	0.18489967286586761	-0.043336622	No	
+row_2	STAT6	24	STAT6	signal transducer and activator of transcription 6, interleukin-4 induced	2443	0.11131216585636139	-0.050769266	No	
+row_3	STAT1	49	STAT1	signal transducer and activator of transcription 1, 91kDa	2697	0.07202418148517609	-0.049928427	No	
+row_4	STAT3	20	STAT3	signal transducer and activator of transcription 3 (acute-phase response factor)	3086	0.01438905205577612	-0.092470914	No	
+row_5	TYK2	2	TYK2	tyrosine kinase 2	6875	-0.6301159262657166	-0.2844041	Yes	
+row_6	JAK1	9	JAK1	Janus kinase 1 (a protein tyrosine kinase)	7325	-0.90932697057724	0.073661625	Yes	

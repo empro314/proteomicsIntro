@@ -1,0 +1,15 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CDKN2A	7	CDKN2A	cyclin-dependent kinase inhibitor 2A (melanoma, p16, inhibits CDK4)	2267	0.13658922910690308	-0.2585411	No	
+row_1	MTOR	26	null	null	2415	0.11476138979196548	-0.2531005	No	
+row_2	PTEN	7	PTEN	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)	2433	0.11214534938335419	-0.23174024	No	
+row_3	RPS6KB1	3	RPS6KB1	ribosomal protein S6 kinase, 70kDa, polypeptide 1	2450	0.11006227880716324	-0.21069004	No	
+row_4	SMAD4	10	SMAD4	SMAD, mothers against DPP homolog 4 (Drosophila)	2749	0.06492996215820312	-0.23482618	No	
+row_5	PIK3CA	1	PIK3CA	phosphoinositide-3-kinase, catalytic, alpha polypeptide	2862	0.04649175703525543	-0.23926613	No	
+row_6	MYC	2	MYC	v-myc myelocytomatosis viral oncogene homolog (avian)	3115	0.010682940483093262	-0.26894918	No	
+row_7	SMAD5	9	SMAD5	SMAD, mothers against DPP homolog 5 (Drosophila)	3428	-0.032664038240909576	-0.30162412	No	
+row_8	TGFBR1	3	TGFBR1	transforming growth factor, beta receptor I (activin A receptor type II-like kinase, 53kDa)	3671	-0.06305954605340958	-0.31905845	No	
+row_9	TGFB1	8	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	6717	-0.5690289735794067	-0.5854846	Yes	
+row_10	PIK3R1	4	PIK3R1	phosphoinositide-3-kinase, regulatory subunit 1 (p85 alpha)	6794	-0.5967109799385071	-0.46999818	Yes	
+row_11	TGFB2	12	TGFB2	transforming growth factor, beta 2	6942	-0.6646713018417358	-0.3492565	Yes	
+row_12	TGFBR2	5	TGFBR2	transforming growth factor, beta receptor II (70/80kDa)	7565	-1.11276376247406	-0.1947343	Yes	
+row_13	CDKN1B	12	CDKN1B	cyclin-dependent kinase inhibitor 1B (p27, Kip1)	7590	-1.1347757577896118	0.04015693	Yes	

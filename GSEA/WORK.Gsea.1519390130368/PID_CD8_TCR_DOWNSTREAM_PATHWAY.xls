@@ -1,0 +1,25 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	B2M	7	B2M	beta-2-microglobulin	398	0.7111106514930725	-4.8326814E-4	No	
+row_1	ELK1	2	ELK1	ELK1, member of ETS oncogene family	1622	0.2527143657207489	-0.13783903	No	
+row_2	MAPK1	27	MAPK1	mitogen-activated protein kinase 1	1638	0.24736157059669495	-0.12234944	No	
+row_3	MAP2K2	18	MAP2K2	mitogen-activated protein kinase kinase 2	1659	0.24253062903881073	-0.10783371	No	
+row_4	HLA-A	32	HLA-A	major histocompatibility complex, class I, A	1905	0.19857527315616608	-0.12494733	No	
+row_5	PRKCA	23	PRKCA	protein kinase C, alpha	2164	0.15264014899730682	-0.14693959	No	
+row_6	MAP2K1	14	MAP2K1	mitogen-activated protein kinase kinase 1	2269	0.13586166501045227	-0.15057833	No	
+row_7	BRAF	1	BRAF	v-raf murine sarcoma viral oncogene homolog B1	2522	0.09917809069156647	-0.17556852	No	
+row_8	MAPK9	4	MAPK9	mitogen-activated protein kinase 9	2613	0.08548559248447418	-0.18097349	No	
+row_9	MAPK3	28	MAPK3	mitogen-activated protein kinase 3	3291	-0.012350315228104591	-0.26597524	No	
+row_10	PPP3CA	15	PPP3CA	protein phosphatase 3 (formerly 2B), catalytic subunit, alpha isoform (calcineurin A alpha)	3318	-0.016158077865839005	-0.26813698	No	
+row_11	PPP3R1	12	PPP3R1	protein phosphatase 3 (formerly 2B), regulatory subunit B, 19kDa, alpha isoform (calcineurin B, type I)	3421	-0.031127184629440308	-0.278886	No	
+row_12	JUN	13	JUN	jun oncogene	3913	-0.0963917225599289	-0.33438665	No	
+row_13	KRAS	6	KRAS	v-Ki-ras2 Kirsten rat sarcoma viral oncogene homolog	4458	-0.1650204211473465	-0.39178446	No	
+row_14	PPP3CB	15	PPP3CB	protein phosphatase 3 (formerly 2B), catalytic subunit, beta isoform (calcineurin A beta)	4688	-0.19249087572097778	-0.40729645	No	
+row_15	MAPK8	8	MAPK8	mitogen-activated protein kinase 8	4750	-0.20127122104167938	-0.4008821	No	
+row_16	RAF1	13	RAF1	v-raf-1 murine leukemia viral oncogene homolog 1	4854	-0.21553495526313782	-0.39879212	No	
+row_17	NRAS	10	NRAS	neuroblastoma RAS viral (v-ras) oncogene homolog	5432	-0.2913493514060974	-0.45149332	No	
+row_18	HRAS	3	HRAS	v-Ha-ras Harvey rat sarcoma viral oncogene homolog	5693	-0.33726024627685547	-0.46075848	No	
+row_19	IFNAR1	2	IFNAR1	interferon (alpha, beta and omega) receptor 1	6300	-0.45067933201789856	-0.50593543	No	
+row_20	FOSL1	12	FOSL1	FOS-like antigen 1	6371	-0.47086599469184875	-0.48170722	No	
+row_21	PRKCE	1	PRKCE	protein kinase C, epsilon	7673	-1.2189494371414185	-0.5610197	Yes	
+row_22	JUNB	6	JUNB	jun B proto-oncogene	7698	-1.24448561668396	-0.47656316	Yes	
+row_23	IL2RA	4	IL2RA	interleukin 2 receptor, alpha	7905	-7.1531853675842285	2.537596E-4	Yes	

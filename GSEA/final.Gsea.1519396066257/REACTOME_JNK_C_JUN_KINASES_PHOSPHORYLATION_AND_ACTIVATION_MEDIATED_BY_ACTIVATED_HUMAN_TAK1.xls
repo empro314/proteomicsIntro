@@ -1,0 +1,13 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TAB2	14	null	null	464	0.6608789563179016	0.17302518	Yes	
+row_1	MAP3K7	16	MAP3K7	mitogen-activated protein kinase kinase kinase 7	750	0.5011807680130005	0.31270936	Yes	
+row_2	IKBKG	25	IKBKG	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma	789	0.48548510670661926	0.47817028	Yes	
+row_3	TAB3	3	null	null	1405	0.30042606592178345	0.5056507	Yes	
+row_4	MAP2K7	1	MAP2K7	mitogen-activated protein kinase kinase 7	1712	0.23200653493404388	0.54826826	Yes	
+row_5	TAB1	19	null	null	1954	0.1892492026090622	0.5841216	Yes	
+row_6	RIPK2	10	RIPK2	receptor-interacting serine-threonine kinase 2	2242	0.14084187150001526	0.5971713	Yes	
+row_7	MAPK9	4	MAPK9	mitogen-activated protein kinase 9	2613	0.08548559248447418	0.5802944	No	
+row_8	TRAF6	9	TRAF6	TNF receptor-associated factor 6	3056	0.019398951902985573	0.5311204	No	
+row_9	MAP2K4	9	MAP2K4	mitogen-activated protein kinase kinase 4	3076	0.016276806592941284	0.5344229	No	
+row_10	IRAK1	4	IRAK1	interleukin-1 receptor-associated kinase 1	3344	-0.0187069084495306	0.5071693	No	
+row_11	MAPK8	8	MAPK8	mitogen-activated protein kinase 8	4750	-0.20127122104167938	0.39982268	No	

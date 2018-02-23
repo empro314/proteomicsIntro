@@ -1,0 +1,15 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CDH13	27	CDH13	cadherin 13, H-cadherin (heart)	158	1.0175529718399048	0.060780026	No	
+row_1	PVRL3	9	PVRL3	poliovirus receptor-related 3	2814	0.05353687331080437	-0.27130046	No	
+row_2	CDH4	5	CDH4	cadherin 4, type 1, R-cadherin (retinal)	3073	0.016459070146083832	-0.30267665	No	
+row_3	PVRL1	1	PVRL1	poliovirus receptor-related 1 (herpesvirus entry mediator C; nectin)	3751	-0.07434554398059845	-0.38253483	No	
+row_4	PVR	11	PVR	poliovirus receptor	3772	-0.07813470810651779	-0.3788644	No	
+row_5	JUP	46	JUP	junction plakoglobin	4410	-0.15934385359287262	-0.44690648	No	
+row_6	PVRL2	21	PVRL2	poliovirus receptor-related 2 (herpesvirus entry mediator B)	4831	-0.21208778023719788	-0.48327136	No	
+row_7	CDH2	51	CDH2	cadherin 2, type 1, N-cadherin (neuronal)	5041	-0.23876120150089264	-0.49078915	No	
+row_8	CTNNB1	32	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	5256	-0.2646200656890869	-0.49688712	No	
+row_9	CTNND1	81	CTNND1	catenin (cadherin-associated protein), delta 1	5649	-0.3310094177722931	-0.5202625	No	
+row_10	CTNNA1	73	CTNNA1	catenin (cadherin-associated protein), alpha 1, 102kDa	5843	-0.36323282122612	-0.51587015	No	
+row_11	CDH10	3	CDH10	cadherin 10, type 2 (T2-cadherin)	6798	-0.5988671183586121	-0.5891705	No	
+row_12	CDH6	17	CDH6	cadherin 6, type 2, K-cadherin (fetal kidney)	7668	-1.212352991104126	-0.60299146	Yes	
+row_13	CADM1	3	null	null	7906	-7.973917007446289	1.2663391E-4	Yes	
